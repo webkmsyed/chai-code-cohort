@@ -60,7 +60,7 @@
 
 
 </br>
-<h2 align="center">📌 Blog & Learning Resources</h2>
+<h2 align="center">📌 Blogs & Learning Resources</h2>
 
 ### 🔥 Top Posts
 
