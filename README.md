@@ -8,10 +8,9 @@
 <p align="center"><b>A learning hub for Full Stack Web Developer Cohort 1.0.</b></p>
 <p align="center">🗓️ Cohort Start: <b>11 Jan 2025</b></p>
 <p align="center">🌐 Official Website: <a href="https://chaicode.com/">Chai Code</a></p>
-<p align="center">📖 My Blog <a href="https://jargoniseasy.com/">Jargon is Easy</a></p>
+<p align="center">📖 My Blog <a href="https://jargoniseasy.com/">Jargon is Easy</a></p><br/>
 
 
-</br>
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
@@ -26,9 +25,9 @@
   <a href="https://www.instagram.com/webkmsyed/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
   <a href="https://github.com/webkmsyed"><img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
   <a href="https://hashnode.com/@webkmsyed"><img src="https://img.shields.io/badge/Hashnode-0A66C2?style=for-the-badge&logo=Hashnode&logoColor=white"></a>
-</p>
+</p><br/>
 
-</br>
+
 <h2 align="center">🎓 I Learn from Top Coders</h2>
 
 <table align="center">
@@ -56,10 +55,10 @@
       <img src="https://github-readme-stats.vercel.app/api?username=piyushgarg-dev&show_icons=true&theme=radical">
     </td>
   </tr>
-</table>
+</table><br/>
 
 
-</br>
+
 <h2 align="center">📌 Blogs & Learning Resources</h2>
 
 ### 🔥 Top Posts
@@ -110,10 +109,9 @@
       <br/><sub>HTML Series</sub>
     </td>
   </tr>
-</table>
+</table><br/>
 
 
-</br>
 <h2 align="center">🚀 Skills & Tech Stack Cover</h2>
 
 <div align="center">
@@ -135,7 +133,6 @@
 ![TurboRepo](https://img.shields.io/badge/-Turbo%20Repo-000000?style=for-the-badge&logo=turborepo&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-
 </div>
 
 
