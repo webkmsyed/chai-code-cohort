@@ -38,7 +38,7 @@ Connect with me:
 ### Hitesh Choudhary
 
 <p align="center">
-  <img src="./assets/hitesh.png" alt="Hitesh Choudhary" width="150" height="150" style="border-radius: 50%;">
+  <img src="./assets/hitesh_profile.png" alt="Hitesh Choudhary" width="150" height="150" style="border-radius: 50%;">
 </p>
 
 [![GitHub](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/hiteshchoudhary) [![Website](https://img.shields.io/badge/hiteshchoudhary.com-0e76a8?style=flat-square&logo=google-chrome&logoColor=white)](https://hiteshchoudhary.com/)  [![Twitter](https://img.shields.io/badge/X-000000?style=flat-square&logo=Twitter&logoColor=black)](https://twitter.com/Hiteshdotcom)  [![LinkedIn](https://img.shields.io/badge/Linkedin-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://in.linkedin.com/in/hiteshchoudhary)  [![YouTube](https://img.shields.io/badge/Chai%20Aur%20Code-FF0000?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/@chaiaurcode)
