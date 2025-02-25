@@ -114,7 +114,6 @@
 
 <h2 align="center">🚀 Skills & Tech Stack Cover</h2>
 
-<div align="center">
 
 <div align="center">
     <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
@@ -135,7 +134,6 @@
     <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
     <a href="#"><img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white"></a>
 </div>
-
 
 ---
 
