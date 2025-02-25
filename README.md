@@ -1,7 +1,7 @@
 <!-- Banner -->
 <p align="center"><img alt="Cohort Banner" src="./assets/cohort_banner.jpg" width="500></p>
 
-<br><h1 align="center"> Full Stack Web Developer Cohort 1.0 </h1>
+<br/><h1 align="center"> Full Stack Web Developer Cohort 1.0 </h1>
 
 <p align="center"><b>A learning hub for Full Stack Web Developer Cohort 1.0.</b></p>
 <p align="center">🗓️ Cohort Start: <b>11 Jan 2025</b></p>
