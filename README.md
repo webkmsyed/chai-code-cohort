@@ -1,32 +1,24 @@
 <!-- Banner -->
-<p align="center">
-  <img alt="Cohort Banner" src="./assets/cohort_banner.jpg" style="max-width: 100%;">
-</p>
+<p align="center"><img alt="Cohort Banner" src="./assets/cohort_banner.jpg" width="500></p>
+    
 
-<h1 align="center"> Full Stack Web Developer Cohort 1.0 </h1>
+<br><h1 align="center"> Full Stack Web Developer Cohort 1.0 </h1>
 
 <p align="center"><b>A learning hub for Full Stack Web Developer Cohort 1.0.</b></p>
 <p align="center">🗓️ Cohort Start: <b>11 Jan 2025</b></p>
 <p align="center">🌐 Official Website: <a href="https://chaicode.com/">Chai Code</a></p>
+<p align="center">📖 My Blog <a href="https://jargoniseasy.com/">Jargon is Easy</a></p>
 
----
 
-## 🚀 About the Cohort
-
-Welcome to the **Full Stack Web Developer Cohort 1.0** repository—your one-stop hub for lecture notes, code samples, projects, and more.  
-Whether you're tracking daily lectures or diving into projects, this space is designed to grow with us.  
-Our journey began on **11 Jan 2025**, and we're learning from the best in the industry.
-
----
-
+</br>
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
   <img src="assets/webkmsyed.png" alt="Khishamuddin Syed" width="150" style="border-radius: 50%;">
 </p>
 
-<h3 align="center">Hi, I'm Khishamuddin Syed – a passionate web developer on a journey to master full-stack development.</h3>
-
+<h3 align="center">Hi, I'm Khishamuddin Syed</h3>
+<p align="center">Hi, I'm Khishamuddin Syed – a passionate web developer on a journey to master full-stack development.</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/webkmsyed/"><img src="https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
   <a href="https://x.com/webkmsyed"><img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=Twitter&logoColor=white"></a>
@@ -35,7 +27,7 @@ Our journey began on **11 Jan 2025**, and we're learning from the best in the in
   <a href="https://hashnode.com/@webkmsyed"><img src="https://img.shields.io/badge/Hashnode-0A66C2?style=for-the-badge&logo=Hashnode&logoColor=white"></a>
 </p>
 
----
+</br>
 <h2 align="center">🎓 I Learn from Top Coders</h2>
 
 <table align="center">
@@ -66,19 +58,67 @@ Our journey began on **11 Jan 2025**, and we're learning from the best in the in
 </table>
 
 
----
-
+</br>
 <h2 align="center">📌 Blog & Learning Resources</h2>
 
-📖 My Blogs:  
-- [Client-Side vs Server-Side](https://jargoniseasy.com/client-side-vs-server-side)  
-- [HTTP vs HTTPS](https://jargoniseasy.com/http-vs-https)  
-- [HTML Short Notes](https://jargoniseasy.com/html-short-notes)  
+### 🔥 Top Posts
 
-📚 Learning Series:  
-- [JavaScript Series](https://jargoniseasy.com/series/javascript)  
-- [CSS Series](https://jargoniseasy.com/series/css)  
-- [HTML Series](https://jargoniseasy.com/series/html)  
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://jargoniseasy.com/client-side-vs-server-side">
+        <img src="https://github.com/webkmsyed/webkmsyed/raw/main/images/blogPost/01.webp" alt="Client vs Server" width="200">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://jargoniseasy.com/http-vs-https">
+        <img src="https://github.com/webkmsyed/webkmsyed/raw/main/images/blogPost/02.webp" alt="HTTP vs HTTPS" width="200">
+      </a>
+      <br/><sub>HTTP vs HTTPS</sub>
+    </td>
+    <td align="center">
+      <a href="https://jargoniseasy.com/html-short-notes">
+        <img src="https://github.com/webkmsyed/webkmsyed/raw/main/images/blogPost/03.webp" alt="HTML Short Notes" width="200">
+      </a>
+      <br/><sub>HTML Short Notes</sub>
+    </td>
+  </tr>
+</table>
+
+
+### 📚 Series
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://jargoniseasy.com/series/javascript">
+        <img src="images/blogPost/js-cover.webp" alt="JavaScript Series" width="200">
+      </a>
+      <br/><sub>JavaScript Series</sub>
+    </td>
+    <td align="center">
+      <a href="https://jargoniseasy.com/series/css">
+        <img src="images/blogPost/css-cover.webp" alt="CSS Series" width="200">
+      </a>
+      <br/><sub>CSS Series</sub>
+    </td>
+    <td align="center">
+      <a href="https://jargoniseasy.com/series/html">
+        <img src="images/blogPost/html-cover.webp" alt="HTML Series" width="200">
+      </a>
+      <br/><sub>HTML Series</sub>
+    </td>
+  </tr>
+</table>
+
+
+</br>
+<h2 align="center">🚀 Skills & Tech Stack</h2>
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
