@@ -1,7 +1,8 @@
 <!-- Banner -->
-<p align="center"><img alt="Cohort Banner" src="./assets/cohort_banner.jpg" width="500></p>
+<div align="center">  
+  <img alt="Cohort Banner" src="./assets/cohort_banner.jpg" width="500">   
+</div><br>
 
-<br/>
 <h1 align="center"> Full Stack Web Developer Cohort 1.0 </h1>
 
 <p align="center"><b>A learning hub for Full Stack Web Developer Cohort 1.0.</b></p>
