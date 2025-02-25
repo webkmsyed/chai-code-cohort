@@ -1,6 +1,5 @@
 <!-- Banner -->
 <p align="center"><img alt="Cohort Banner" src="./assets/cohort_banner.jpg" width="500></p>
-    
 
 <br><h1 align="center"> Full Stack Web Developer Cohort 1.0 </h1>
 
@@ -74,13 +73,13 @@
       <a href="https://jargoniseasy.com/http-vs-https">
         <img src="https://github.com/webkmsyed/webkmsyed/raw/main/images/blogPost/02.webp" alt="HTTP vs HTTPS" width="200">
       </a>
-      <br/><sub>HTTP vs HTTPS</sub>
+      <br/>
     </td>
     <td align="center">
       <a href="https://jargoniseasy.com/html-short-notes">
         <img src="https://github.com/webkmsyed/webkmsyed/raw/main/images/blogPost/03.webp" alt="HTML Short Notes" width="200">
       </a>
-      <br/><sub>HTML Short Notes</sub>
+      <br/>
     </td>
   </tr>
 </table>
@@ -92,19 +91,19 @@
   <tr>
     <td align="center">
       <a href="https://jargoniseasy.com/series/javascript">
-        <img src="images/blogPost/js-cover.webp" alt="JavaScript Series" width="200">
+        <img src="https://github.com/webkmsyed/webkmsyed/raw/main/images/blogPost/js-cover.webp" alt="JavaScript Series" width="200">
       </a>
       <br/><sub>JavaScript Series</sub>
     </td>
     <td align="center">
       <a href="https://jargoniseasy.com/series/css">
-        <img src="images/blogPost/css-cover.webp" alt="CSS Series" width="200">
+        <img src="https://github.com/webkmsyed/webkmsyed/raw/main/images/blogPost/css-cover.webp" alt="CSS Series" width="200">
       </a>
       <br/><sub>CSS Series</sub>
     </td>
     <td align="center">
       <a href="https://jargoniseasy.com/series/html">
-        <img src="images/blogPost/html-cover.webp" alt="HTML Series" width="200">
+        <img src="https://github.com/webkmsyed/webkmsyed/raw/main/images/blogPost/html-cover.webp" alt="HTML Series" width="200">
       </a>
       <br/><sub>HTML Series</sub>
     </td>
@@ -113,12 +112,30 @@
 
 
 </br>
-<h2 align="center">🚀 Skills & Tech Stack</h2>
+<h2 align="center">🚀 Skills & Tech Stack Cover</h2>
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<div align="center">
+
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=for-the-badge&logo=mongodb&logoColor=white)
+![DevOps](https://img.shields.io/badge/-DevOps-FF5733?style=for-the-badge&logo=devops&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![TurboRepo](https://img.shields.io/badge/-Turbo%20Repo-000000?style=for-the-badge&logo=turborepo&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+
+</div>
+
 
 ---
 
