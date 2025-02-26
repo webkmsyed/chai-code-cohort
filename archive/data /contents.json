@@ -1,0 +1,850 @@
+[
+  {
+    "name": "CNAME",
+    "path": "CNAME",
+    "sha": "f6310a0003b80f078b4ac41782468688370602a7",
+    "size": 22,
+    "url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/CNAME?ref=main",
+    "html_url": "https://github.com/webkmsyed/chai-code-cohort/blob/main/CNAME",
+    "git_url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/blobs/f6310a0003b80f078b4ac41782468688370602a7",
+    "download_url": "https://raw.githubusercontent.com/webkmsyed/chai-code-cohort/main/CNAME",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/CNAME?ref=main",
+      "git": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/blobs/f6310a0003b80f078b4ac41782468688370602a7",
+      "html": "https://github.com/webkmsyed/chai-code-cohort/blob/main/CNAME"
+    }
+  },
+  {
+    "name": "article-blog-writing-challenges",
+    "path": "article-blog-writing-challenges",
+    "sha": "5ee8655c6177b3c66bb7c81a55c56f0a97cd85b4",
+    "size": 0,
+    "url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/article-blog-writing-challenges?ref=main",
+    "html_url": "https://github.com/webkmsyed/chai-code-cohort/tree/main/article-blog-writing-challenges",
+    "git_url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/trees/5ee8655c6177b3c66bb7c81a55c56f0a97cd85b4",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/article-blog-writing-challenges?ref=main",
+      "git": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/trees/5ee8655c6177b3c66bb7c81a55c56f0a97cd85b4",
+      "html": "https://github.com/webkmsyed/chai-code-cohort/tree/main/article-blog-writing-challenges"
+    }
+  },
+  {
+    "name": "readme.md",
+    "path": "article-blog-writing-challenges/readme.md",
+    "sha": "653f0fcba231e07bc00ff4968a3a1ae4e1017e50",
+    "size": 34,
+    "url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/article-blog-writing-challenges/readme.md?ref=main",
+    "html_url": "https://github.com/webkmsyed/chai-code-cohort/blob/main/article-blog-writing-challenges/readme.md",
+    "git_url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/blobs/653f0fcba231e07bc00ff4968a3a1ae4e1017e50",
+    "download_url": "https://raw.githubusercontent.com/webkmsyed/chai-code-cohort/main/article-blog-writing-challenges/readme.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/article-blog-writing-challenges/readme.md?ref=main",
+      "git": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/blobs/653f0fcba231e07bc00ff4968a3a1ae4e1017e50",
+      "html": "https://github.com/webkmsyed/chai-code-cohort/blob/main/article-blog-writing-challenges/readme.md"
+    }
+  },
+  {
+    "name": "assets",
+    "path": "assets",
+    "sha": "96912fc31b4e480c1c2619b531271e698e59a7ad",
+    "size": 0,
+    "url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/assets?ref=main",
+    "html_url": "https://github.com/webkmsyed/chai-code-cohort/tree/main/assets",
+    "git_url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/trees/96912fc31b4e480c1c2619b531271e698e59a7ad",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/assets?ref=main",
+      "git": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/trees/96912fc31b4e480c1c2619b531271e698e59a7ad",
+      "html": "https://github.com/webkmsyed/chai-code-cohort/tree/main/assets"
+    }
+  },
+  {
+    "name": "cohort_banner.jpg",
+    "path": "assets/cohort_banner.jpg",
+    "sha": "9743a946c47967aca6a197b5d0a007739cfe1b4c",
+    "size": 105872,
+    "url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/assets/cohort_banner.jpg?ref=main",
+    "html_url": "https://github.com/webkmsyed/chai-code-cohort/blob/main/assets/cohort_banner.jpg",
+    "git_url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/blobs/9743a946c47967aca6a197b5d0a007739cfe1b4c",
+    "download_url": "https://raw.githubusercontent.com/webkmsyed/chai-code-cohort/main/assets/cohort_banner.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/assets/cohort_banner.jpg?ref=main",
+      "git": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/blobs/9743a946c47967aca6a197b5d0a007739cfe1b4c",
+      "html": "https://github.com/webkmsyed/chai-code-cohort/blob/main/assets/cohort_banner.jpg"
+    }
+  },
+  {
+    "name": "cover.png",
+    "path": "assets/cover.png",
+    "sha": "192c5c15caa97641ae89a1e51aca2aeb6c0c23eb",
+    "size": 1070300,
+    "url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/assets/cover.png?ref=main",
+    "html_url": "https://github.com/webkmsyed/chai-code-cohort/blob/main/assets/cover.png",
+    "git_url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/blobs/192c5c15caa97641ae89a1e51aca2aeb6c0c23eb",
+    "download_url": "https://raw.githubusercontent.com/webkmsyed/chai-code-cohort/main/assets/cover.png",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/assets/cover.png?ref=main",
+      "git": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/blobs/192c5c15caa97641ae89a1e51aca2aeb6c0c23eb",
+      "html": "https://github.com/webkmsyed/chai-code-cohort/blob/main/assets/cover.png"
+    }
+  },
+  {
+    "name": "hitesh_profile.png",
+    "path": "assets/hitesh_profile.png",
+    "sha": "b8d2635ed4d56560f6d6b0bea798bb7745aa66f1",
+    "size": 235858,
+    "url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/assets/hitesh_profile.png?ref=main",
+    "html_url": "https://github.com/webkmsyed/chai-code-cohort/blob/main/assets/hitesh_profile.png",
+    "git_url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/blobs/b8d2635ed4d56560f6d6b0bea798bb7745aa66f1",
+    "download_url": "https://raw.githubusercontent.com/webkmsyed/chai-code-cohort/main/assets/hitesh_profile.png",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/assets/hitesh_profile.png?ref=main",
+      "git": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/blobs/b8d2635ed4d56560f6d6b0bea798bb7745aa66f1",
+      "html": "https://github.com/webkmsyed/chai-code-cohort/blob/main/assets/hitesh_profile.png"
+    }
+  },
+  {
+    "name": "piyush.webp",
+    "path": "assets/piyush.webp",
+    "sha": "4f1479bfb70742b19793f0b386eb49f2252e54bb",
+    "size": 101680,
+    "url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/assets/piyush.webp?ref=main",
+    "html_url": "https://github.com/webkmsyed/chai-code-cohort/blob/main/assets/piyush.webp",
+    "git_url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/blobs/4f1479bfb70742b19793f0b386eb49f2252e54bb",
+    "download_url": "https://raw.githubusercontent.com/webkmsyed/chai-code-cohort/main/assets/piyush.webp",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/assets/piyush.webp?ref=main",
+      "git": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/blobs/4f1479bfb70742b19793f0b386eb49f2252e54bb",
+      "html": "https://github.com/webkmsyed/chai-code-cohort/blob/main/assets/piyush.webp"
+    }
+  },
+  {
+    "name": "webkmsyed.png",
+    "path": "assets/webkmsyed.png",
+    "sha": "93d0f0c38717fdd8fb2790c79a728e0213c1508e",
+    "size": 1314684,
+    "url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/assets/webkmsyed.png?ref=main",
+    "html_url": "https://github.com/webkmsyed/chai-code-cohort/blob/main/assets/webkmsyed.png",
+    "git_url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/blobs/93d0f0c38717fdd8fb2790c79a728e0213c1508e",
+    "download_url": "https://raw.githubusercontent.com/webkmsyed/chai-code-cohort/main/assets/webkmsyed.png",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/assets/webkmsyed.png?ref=main",
+      "git": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/blobs/93d0f0c38717fdd8fb2790c79a728e0213c1508e",
+      "html": "https://github.com/webkmsyed/chai-code-cohort/blob/main/assets/webkmsyed.png"
+    }
+  },
+  {
+    "name": "codingChallenges",
+    "path": "codingChallenges",
+    "sha": "2bacde379622dd672f5c6791dc5ee452e0dfe298",
+    "size": 0,
+    "url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/codingChallenges?ref=main",
+    "html_url": "https://github.com/webkmsyed/chai-code-cohort/tree/main/codingChallenges",
+    "git_url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/trees/2bacde379622dd672f5c6791dc5ee452e0dfe298",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/codingChallenges?ref=main",
+      "git": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/trees/2bacde379622dd672f5c6791dc5ee452e0dfe298",
+      "html": "https://github.com/webkmsyed/chai-code-cohort/tree/main/codingChallenges"
+    }
+  },
+  {
+    "name": "css",
+    "path": "codingChallenges/css",
+    "sha": "233b15a0d133d13e136e142936c3cb2ae47d888c",
+    "size": 0,
+    "url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/codingChallenges/css?ref=main",
+    "html_url": "https://github.com/webkmsyed/chai-code-cohort/tree/main/codingChallenges/css",
+    "git_url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/trees/233b15a0d133d13e136e142936c3cb2ae47d888c",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/codingChallenges/css?ref=main",
+      "git": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/trees/233b15a0d133d13e136e142936c3cb2ae47d888c",
+      "html": "https://github.com/webkmsyed/chai-code-cohort/tree/main/codingChallenges/css"
+    }
+  },
+  {
+    "name": "readme.md",
+    "path": "codingChallenges/css/readme.md",
+    "sha": "115a28c965630fca20af91ba7cfdcb4955c56df9",
+    "size": 23,
+    "url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/codingChallenges/css/readme.md?ref=main",
+    "html_url": "https://github.com/webkmsyed/chai-code-cohort/blob/main/codingChallenges/css/readme.md",
+    "git_url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/blobs/115a28c965630fca20af91ba7cfdcb4955c56df9",
+    "download_url": "https://raw.githubusercontent.com/webkmsyed/chai-code-cohort/main/codingChallenges/css/readme.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/codingChallenges/css/readme.md?ref=main",
+      "git": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/blobs/115a28c965630fca20af91ba7cfdcb4955c56df9",
+      "html": "https://github.com/webkmsyed/chai-code-cohort/blob/main/codingChallenges/css/readme.md"
+    }
+  },
+  {
+    "name": "html",
+    "path": "codingChallenges/html",
+    "sha": "6fbc2a64ed4e2bc883ce3158130c2e4783a438ae",
+    "size": 0,
+    "url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/codingChallenges/html?ref=main",
+    "html_url": "https://github.com/webkmsyed/chai-code-cohort/tree/main/codingChallenges/html",
+    "git_url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/trees/6fbc2a64ed4e2bc883ce3158130c2e4783a438ae",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/codingChallenges/html?ref=main",
+      "git": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/trees/6fbc2a64ed4e2bc883ce3158130c2e4783a438ae",
+      "html": "https://github.com/webkmsyed/chai-code-cohort/tree/main/codingChallenges/html"
+    }
+  },
+  {
+    "name": "hello.html",
+    "path": "codingChallenges/html/hello.html",
+    "sha": "98af2b895f786dbf5fb811096e6b2c4a0c0629ad",
+    "size": 498,
+    "url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/codingChallenges/html/hello.html?ref=main",
+    "html_url": "https://github.com/webkmsyed/chai-code-cohort/blob/main/codingChallenges/html/hello.html",
+    "git_url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/blobs/98af2b895f786dbf5fb811096e6b2c4a0c0629ad",
+    "download_url": "https://raw.githubusercontent.com/webkmsyed/chai-code-cohort/main/codingChallenges/html/hello.html",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/codingChallenges/html/hello.html?ref=main",
+      "git": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/blobs/98af2b895f786dbf5fb811096e6b2c4a0c0629ad",
+      "html": "https://github.com/webkmsyed/chai-code-cohort/blob/main/codingChallenges/html/hello.html"
+    }
+  },
+  {
+    "name": "readme.md",
+    "path": "codingChallenges/html/readme.md",
+    "sha": "e2e6a275b1ac5bd8d27f8e307b3d21615c6bb855",
+    "size": 25,
+    "url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/codingChallenges/html/readme.md?ref=main",
+    "html_url": "https://github.com/webkmsyed/chai-code-cohort/blob/main/codingChallenges/html/readme.md",
+    "git_url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/blobs/e2e6a275b1ac5bd8d27f8e307b3d21615c6bb855",
+    "download_url": "https://raw.githubusercontent.com/webkmsyed/chai-code-cohort/main/codingChallenges/html/readme.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/codingChallenges/html/readme.md?ref=main",
+      "git": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/blobs/e2e6a275b1ac5bd8d27f8e307b3d21615c6bb855",
+      "html": "https://github.com/webkmsyed/chai-code-cohort/blob/main/codingChallenges/html/readme.md"
+    }
+  },
+  {
+    "name": "javaScript",
+    "path": "codingChallenges/javaScript",
+    "sha": "c16d4d5561fc7da3df1cac9767385e93037a7424",
+    "size": 0,
+    "url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/codingChallenges/javaScript?ref=main",
+    "html_url": "https://github.com/webkmsyed/chai-code-cohort/tree/main/codingChallenges/javaScript",
+    "git_url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/trees/c16d4d5561fc7da3df1cac9767385e93037a7424",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/codingChallenges/javaScript?ref=main",
+      "git": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/trees/c16d4d5561fc7da3df1cac9767385e93037a7424",
+      "html": "https://github.com/webkmsyed/chai-code-cohort/tree/main/codingChallenges/javaScript"
+    }
+  },
+  {
+    "name": "readme.md",
+    "path": "codingChallenges/javaScript/readme.md",
+    "sha": "933296f645bf7f44cab3bab22a730620d9eb7d35",
+    "size": 30,
+    "url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/codingChallenges/javaScript/readme.md?ref=main",
+    "html_url": "https://github.com/webkmsyed/chai-code-cohort/blob/main/codingChallenges/javaScript/readme.md",
+    "git_url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/blobs/933296f645bf7f44cab3bab22a730620d9eb7d35",
+    "download_url": "https://raw.githubusercontent.com/webkmsyed/chai-code-cohort/main/codingChallenges/javaScript/readme.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/codingChallenges/javaScript/readme.md?ref=main",
+      "git": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/blobs/933296f645bf7f44cab3bab22a730620d9eb7d35",
+      "html": "https://github.com/webkmsyed/chai-code-cohort/blob/main/codingChallenges/javaScript/readme.md"
+    }
+  },
+  {
+    "name": "readme.md",
+    "path": "codingChallenges/readme.md",
+    "sha": "bb5e1d1658d8a1be0da77b0a06b208326f61d99c",
+    "size": 29,
+    "url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/codingChallenges/readme.md?ref=main",
+    "html_url": "https://github.com/webkmsyed/chai-code-cohort/blob/main/codingChallenges/readme.md",
+    "git_url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/blobs/bb5e1d1658d8a1be0da77b0a06b208326f61d99c",
+    "download_url": "https://raw.githubusercontent.com/webkmsyed/chai-code-cohort/main/codingChallenges/readme.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/codingChallenges/readme.md?ref=main",
+      "git": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/blobs/bb5e1d1658d8a1be0da77b0a06b208326f61d99c",
+      "html": "https://github.com/webkmsyed/chai-code-cohort/blob/main/codingChallenges/readme.md"
+    }
+  },
+  {
+    "name": "data",
+    "path": "data",
+    "sha": "a4462de961f88e67cb3bdba961f092bfa105a9e5",
+    "size": 0,
+    "url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/data?ref=main",
+    "html_url": "https://github.com/webkmsyed/chai-code-cohort/tree/main/data",
+    "git_url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/trees/a4462de961f88e67cb3bdba961f092bfa105a9e5",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/data?ref=main",
+      "git": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/trees/a4462de961f88e67cb3bdba961f092bfa105a9e5",
+      "html": "https://github.com/webkmsyed/chai-code-cohort/tree/main/data"
+    }
+  },
+  {
+    "name": "package.json",
+    "path": "data/package.json",
+    "sha": "f8210cb0bae492a613d8ee96a09fa7f4cd1714c7",
+    "size": 282,
+    "url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/data/package.json?ref=main",
+    "html_url": "https://github.com/webkmsyed/chai-code-cohort/blob/main/data/package.json",
+    "git_url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/blobs/f8210cb0bae492a613d8ee96a09fa7f4cd1714c7",
+    "download_url": "https://raw.githubusercontent.com/webkmsyed/chai-code-cohort/main/data/package.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/data/package.json?ref=main",
+      "git": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/blobs/f8210cb0bae492a613d8ee96a09fa7f4cd1714c7",
+      "html": "https://github.com/webkmsyed/chai-code-cohort/blob/main/data/package.json"
+    }
+  },
+  {
+    "name": "readme.md",
+    "path": "data/readme.md",
+    "sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+    "size": 1,
+    "url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/data/readme.md?ref=main",
+    "html_url": "https://github.com/webkmsyed/chai-code-cohort/blob/main/data/readme.md",
+    "git_url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/blobs/8b137891791fe96927ad78e64b0aad7bded08bdc",
+    "download_url": "https://raw.githubusercontent.com/webkmsyed/chai-code-cohort/main/data/readme.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/data/readme.md?ref=main",
+      "git": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/blobs/8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "html": "https://github.com/webkmsyed/chai-code-cohort/blob/main/data/readme.md"
+    }
+  },
+  {
+    "name": "interview-preparation",
+    "path": "interview-preparation",
+    "sha": "1fdebd06fe72a9c7b4ae4e05f2a00e8f731c3410",
+    "size": 0,
+    "url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/interview-preparation?ref=main",
+    "html_url": "https://github.com/webkmsyed/chai-code-cohort/tree/main/interview-preparation",
+    "git_url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/trees/1fdebd06fe72a9c7b4ae4e05f2a00e8f731c3410",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/interview-preparation?ref=main",
+      "git": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/trees/1fdebd06fe72a9c7b4ae4e05f2a00e8f731c3410",
+      "html": "https://github.com/webkmsyed/chai-code-cohort/tree/main/interview-preparation"
+    }
+  },
+  {
+    "name": "aptitude-reasoning-questions",
+    "path": "interview-preparation/aptitude-reasoning-questions",
+    "sha": "e8e00426990cc788a0f13eb5b86865928bef5c9c",
+    "size": 0,
+    "url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/interview-preparation/aptitude-reasoning-questions?ref=main",
+    "html_url": "https://github.com/webkmsyed/chai-code-cohort/tree/main/interview-preparation/aptitude-reasoning-questions",
+    "git_url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/trees/e8e00426990cc788a0f13eb5b86865928bef5c9c",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/interview-preparation/aptitude-reasoning-questions?ref=main",
+      "git": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/trees/e8e00426990cc788a0f13eb5b86865928bef5c9c",
+      "html": "https://github.com/webkmsyed/chai-code-cohort/tree/main/interview-preparation/aptitude-reasoning-questions"
+    }
+  },
+  {
+    "name": "readme.md",
+    "path": "interview-preparation/aptitude-reasoning-questions/readme.md",
+    "sha": "e6d0a6e972ad6cddb5534a0dd8e042e21abe03b2",
+    "size": 31,
+    "url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/interview-preparation/aptitude-reasoning-questions/readme.md?ref=main",
+    "html_url": "https://github.com/webkmsyed/chai-code-cohort/blob/main/interview-preparation/aptitude-reasoning-questions/readme.md",
+    "git_url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/blobs/e6d0a6e972ad6cddb5534a0dd8e042e21abe03b2",
+    "download_url": "https://raw.githubusercontent.com/webkmsyed/chai-code-cohort/main/interview-preparation/aptitude-reasoning-questions/readme.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/interview-preparation/aptitude-reasoning-questions/readme.md?ref=main",
+      "git": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/blobs/e6d0a6e972ad6cddb5534a0dd8e042e21abe03b2",
+      "html": "https://github.com/webkmsyed/chai-code-cohort/blob/main/interview-preparation/aptitude-reasoning-questions/readme.md"
+    }
+  },
+  {
+    "name": "dsa-practice",
+    "path": "interview-preparation/dsa-practice",
+    "sha": "02af29fc2f1e9cf1e70121b0473de7ea0c85cedc",
+    "size": 0,
+    "url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/interview-preparation/dsa-practice?ref=main",
+    "html_url": "https://github.com/webkmsyed/chai-code-cohort/tree/main/interview-preparation/dsa-practice",
+    "git_url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/trees/02af29fc2f1e9cf1e70121b0473de7ea0c85cedc",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/interview-preparation/dsa-practice?ref=main",
+      "git": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/trees/02af29fc2f1e9cf1e70121b0473de7ea0c85cedc",
+      "html": "https://github.com/webkmsyed/chai-code-cohort/tree/main/interview-preparation/dsa-practice"
+    }
+  },
+  {
+    "name": "readme.md",
+    "path": "interview-preparation/dsa-practice/readme.md",
+    "sha": "9ba0c58e7e488c1c82e9ac5be2d978a44655249f",
+    "size": 15,
+    "url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/interview-preparation/dsa-practice/readme.md?ref=main",
+    "html_url": "https://github.com/webkmsyed/chai-code-cohort/blob/main/interview-preparation/dsa-practice/readme.md",
+    "git_url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/blobs/9ba0c58e7e488c1c82e9ac5be2d978a44655249f",
+    "download_url": "https://raw.githubusercontent.com/webkmsyed/chai-code-cohort/main/interview-preparation/dsa-practice/readme.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/interview-preparation/dsa-practice/readme.md?ref=main",
+      "git": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/blobs/9ba0c58e7e488c1c82e9ac5be2d978a44655249f",
+      "html": "https://github.com/webkmsyed/chai-code-cohort/blob/main/interview-preparation/dsa-practice/readme.md"
+    }
+  },
+  {
+    "name": "javascript-interview-questions",
+    "path": "interview-preparation/javascript-interview-questions",
+    "sha": "e1ff22c1fb5da0c3ac10b838c0a83eed1df125c3",
+    "size": 0,
+    "url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/interview-preparation/javascript-interview-questions?ref=main",
+    "html_url": "https://github.com/webkmsyed/chai-code-cohort/tree/main/interview-preparation/javascript-interview-questions",
+    "git_url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/trees/e1ff22c1fb5da0c3ac10b838c0a83eed1df125c3",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/interview-preparation/javascript-interview-questions?ref=main",
+      "git": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/trees/e1ff22c1fb5da0c3ac10b838c0a83eed1df125c3",
+      "html": "https://github.com/webkmsyed/chai-code-cohort/tree/main/interview-preparation/javascript-interview-questions"
+    }
+  },
+  {
+    "name": "readme.md",
+    "path": "interview-preparation/javascript-interview-questions/readme.md",
+    "sha": "ee8bd2432407232175fae5056513626b8a5adbce",
+    "size": 33,
+    "url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/interview-preparation/javascript-interview-questions/readme.md?ref=main",
+    "html_url": "https://github.com/webkmsyed/chai-code-cohort/blob/main/interview-preparation/javascript-interview-questions/readme.md",
+    "git_url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/blobs/ee8bd2432407232175fae5056513626b8a5adbce",
+    "download_url": "https://raw.githubusercontent.com/webkmsyed/chai-code-cohort/main/interview-preparation/javascript-interview-questions/readme.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/interview-preparation/javascript-interview-questions/readme.md?ref=main",
+      "git": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/blobs/ee8bd2432407232175fae5056513626b8a5adbce",
+      "html": "https://github.com/webkmsyed/chai-code-cohort/blob/main/interview-preparation/javascript-interview-questions/readme.md"
+    }
+  },
+  {
+    "name": "machine-coding-round",
+    "path": "interview-preparation/machine-coding-round",
+    "sha": "c6307d8fcbbf3634117723e52c57e0d95e556642",
+    "size": 0,
+    "url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/interview-preparation/machine-coding-round?ref=main",
+    "html_url": "https://github.com/webkmsyed/chai-code-cohort/tree/main/interview-preparation/machine-coding-round",
+    "git_url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/trees/c6307d8fcbbf3634117723e52c57e0d95e556642",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/interview-preparation/machine-coding-round?ref=main",
+      "git": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/trees/c6307d8fcbbf3634117723e52c57e0d95e556642",
+      "html": "https://github.com/webkmsyed/chai-code-cohort/tree/main/interview-preparation/machine-coding-round"
+    }
+  },
+  {
+    "name": "readme.md",
+    "path": "interview-preparation/machine-coding-round/readme.md",
+    "sha": "6b4f5f708b022436080d2b15d9aecb01359368a7",
+    "size": 23,
+    "url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/interview-preparation/machine-coding-round/readme.md?ref=main",
+    "html_url": "https://github.com/webkmsyed/chai-code-cohort/blob/main/interview-preparation/machine-coding-round/readme.md",
+    "git_url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/blobs/6b4f5f708b022436080d2b15d9aecb01359368a7",
+    "download_url": "https://raw.githubusercontent.com/webkmsyed/chai-code-cohort/main/interview-preparation/machine-coding-round/readme.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/interview-preparation/machine-coding-round/readme.md?ref=main",
+      "git": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/blobs/6b4f5f708b022436080d2b15d9aecb01359368a7",
+      "html": "https://github.com/webkmsyed/chai-code-cohort/blob/main/interview-preparation/machine-coding-round/readme.md"
+    }
+  },
+  {
+    "name": "readme.md",
+    "path": "interview-preparation/readme.md",
+    "sha": "4a263ead8b5b86ee741fec4837d2bc2e936cffc0",
+    "size": 23,
+    "url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/interview-preparation/readme.md?ref=main",
+    "html_url": "https://github.com/webkmsyed/chai-code-cohort/blob/main/interview-preparation/readme.md",
+    "git_url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/blobs/4a263ead8b5b86ee741fec4837d2bc2e936cffc0",
+    "download_url": "https://raw.githubusercontent.com/webkmsyed/chai-code-cohort/main/interview-preparation/readme.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/interview-preparation/readme.md?ref=main",
+      "git": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/blobs/4a263ead8b5b86ee741fec4837d2bc2e936cffc0",
+      "html": "https://github.com/webkmsyed/chai-code-cohort/blob/main/interview-preparation/readme.md"
+    }
+  },
+  {
+    "name": "lectureNotes",
+    "path": "lectureNotes",
+    "sha": "ba8aae0661f2d0fb6ece52dd2bc4b97de3346a3e",
+    "size": 0,
+    "url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/lectureNotes?ref=main",
+    "html_url": "https://github.com/webkmsyed/chai-code-cohort/tree/main/lectureNotes",
+    "git_url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/trees/ba8aae0661f2d0fb6ece52dd2bc4b97de3346a3e",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/lectureNotes?ref=main",
+      "git": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/trees/ba8aae0661f2d0fb6ece52dd2bc4b97de3346a3e",
+      "html": "https://github.com/webkmsyed/chai-code-cohort/tree/main/lectureNotes"
+    }
+  },
+  {
+    "name": "readme.md",
+    "path": "lectureNotes/readme.md",
+    "sha": "7ee81b5e7de6958ab957385cf8b19786fb9c52aa",
+    "size": 15,
+    "url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/lectureNotes/readme.md?ref=main",
+    "html_url": "https://github.com/webkmsyed/chai-code-cohort/blob/main/lectureNotes/readme.md",
+    "git_url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/blobs/7ee81b5e7de6958ab957385cf8b19786fb9c52aa",
+    "download_url": "https://raw.githubusercontent.com/webkmsyed/chai-code-cohort/main/lectureNotes/readme.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/lectureNotes/readme.md?ref=main",
+      "git": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/blobs/7ee81b5e7de6958ab957385cf8b19786fb9c52aa",
+      "html": "https://github.com/webkmsyed/chai-code-cohort/blob/main/lectureNotes/readme.md"
+    }
+  },
+  {
+    "name": "week-01",
+    "path": "lectureNotes/week-01",
+    "sha": "3e168579d8e9ff8017bab818d8f36d5e06eb7615",
+    "size": 0,
+    "url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/lectureNotes/week-01?ref=main",
+    "html_url": "https://github.com/webkmsyed/chai-code-cohort/tree/main/lectureNotes/week-01",
+    "git_url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/trees/3e168579d8e9ff8017bab818d8f36d5e06eb7615",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/lectureNotes/week-01?ref=main",
+      "git": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/trees/3e168579d8e9ff8017bab818d8f36d5e06eb7615",
+      "html": "https://github.com/webkmsyed/chai-code-cohort/tree/main/lectureNotes/week-01"
+    }
+  },
+  {
+    "name": "readme.md",
+    "path": "lectureNotes/week-01/readme.md",
+    "sha": "3038d8b615a2198d267b7222287ec62dfbddbb57",
+    "size": 10,
+    "url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/lectureNotes/week-01/readme.md?ref=main",
+    "html_url": "https://github.com/webkmsyed/chai-code-cohort/blob/main/lectureNotes/week-01/readme.md",
+    "git_url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/blobs/3038d8b615a2198d267b7222287ec62dfbddbb57",
+    "download_url": "https://raw.githubusercontent.com/webkmsyed/chai-code-cohort/main/lectureNotes/week-01/readme.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/lectureNotes/week-01/readme.md?ref=main",
+      "git": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/blobs/3038d8b615a2198d267b7222287ec62dfbddbb57",
+      "html": "https://github.com/webkmsyed/chai-code-cohort/blob/main/lectureNotes/week-01/readme.md"
+    }
+  },
+  {
+    "name": "week-02",
+    "path": "lectureNotes/week-02",
+    "sha": "0e339f2a7e92a147883f1738234c524c1e8b2826",
+    "size": 0,
+    "url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/lectureNotes/week-02?ref=main",
+    "html_url": "https://github.com/webkmsyed/chai-code-cohort/tree/main/lectureNotes/week-02",
+    "git_url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/trees/0e339f2a7e92a147883f1738234c524c1e8b2826",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/lectureNotes/week-02?ref=main",
+      "git": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/trees/0e339f2a7e92a147883f1738234c524c1e8b2826",
+      "html": "https://github.com/webkmsyed/chai-code-cohort/tree/main/lectureNotes/week-02"
+    }
+  },
+  {
+    "name": "readme.md",
+    "path": "lectureNotes/week-02/readme.md",
+    "sha": "9434a48af9f365da0c011f298311ef6527951e15",
+    "size": 10,
+    "url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/lectureNotes/week-02/readme.md?ref=main",
+    "html_url": "https://github.com/webkmsyed/chai-code-cohort/blob/main/lectureNotes/week-02/readme.md",
+    "git_url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/blobs/9434a48af9f365da0c011f298311ef6527951e15",
+    "download_url": "https://raw.githubusercontent.com/webkmsyed/chai-code-cohort/main/lectureNotes/week-02/readme.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/lectureNotes/week-02/readme.md?ref=main",
+      "git": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/blobs/9434a48af9f365da0c011f298311ef6527951e15",
+      "html": "https://github.com/webkmsyed/chai-code-cohort/blob/main/lectureNotes/week-02/readme.md"
+    }
+  },
+  {
+    "name": "week-03",
+    "path": "lectureNotes/week-03",
+    "sha": "5e34260609ae056deb8b41e40bc6f761dd50c8ba",
+    "size": 0,
+    "url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/lectureNotes/week-03?ref=main",
+    "html_url": "https://github.com/webkmsyed/chai-code-cohort/tree/main/lectureNotes/week-03",
+    "git_url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/trees/5e34260609ae056deb8b41e40bc6f761dd50c8ba",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/lectureNotes/week-03?ref=main",
+      "git": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/trees/5e34260609ae056deb8b41e40bc6f761dd50c8ba",
+      "html": "https://github.com/webkmsyed/chai-code-cohort/tree/main/lectureNotes/week-03"
+    }
+  },
+  {
+    "name": "readme.md",
+    "path": "lectureNotes/week-03/readme.md",
+    "sha": "a96fd52ab74a2b036978ae541d5bd1964714809d",
+    "size": 10,
+    "url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/lectureNotes/week-03/readme.md?ref=main",
+    "html_url": "https://github.com/webkmsyed/chai-code-cohort/blob/main/lectureNotes/week-03/readme.md",
+    "git_url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/blobs/a96fd52ab74a2b036978ae541d5bd1964714809d",
+    "download_url": "https://raw.githubusercontent.com/webkmsyed/chai-code-cohort/main/lectureNotes/week-03/readme.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/lectureNotes/week-03/readme.md?ref=main",
+      "git": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/blobs/a96fd52ab74a2b036978ae541d5bd1964714809d",
+      "html": "https://github.com/webkmsyed/chai-code-cohort/blob/main/lectureNotes/week-03/readme.md"
+    }
+  },
+  {
+    "name": "week-04",
+    "path": "lectureNotes/week-04",
+    "sha": "0a2c432fb9ed6bfc5368276f7f4b5776ba37c8f2",
+    "size": 0,
+    "url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/lectureNotes/week-04?ref=main",
+    "html_url": "https://github.com/webkmsyed/chai-code-cohort/tree/main/lectureNotes/week-04",
+    "git_url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/trees/0a2c432fb9ed6bfc5368276f7f4b5776ba37c8f2",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/lectureNotes/week-04?ref=main",
+      "git": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/trees/0a2c432fb9ed6bfc5368276f7f4b5776ba37c8f2",
+      "html": "https://github.com/webkmsyed/chai-code-cohort/tree/main/lectureNotes/week-04"
+    }
+  },
+  {
+    "name": "readme.md",
+    "path": "lectureNotes/week-04/readme.md",
+    "sha": "3b2c5ada88f5c687aa6af63721b1e1064374bf54",
+    "size": 10,
+    "url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/lectureNotes/week-04/readme.md?ref=main",
+    "html_url": "https://github.com/webkmsyed/chai-code-cohort/blob/main/lectureNotes/week-04/readme.md",
+    "git_url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/blobs/3b2c5ada88f5c687aa6af63721b1e1064374bf54",
+    "download_url": "https://raw.githubusercontent.com/webkmsyed/chai-code-cohort/main/lectureNotes/week-04/readme.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/lectureNotes/week-04/readme.md?ref=main",
+      "git": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/blobs/3b2c5ada88f5c687aa6af63721b1e1064374bf54",
+      "html": "https://github.com/webkmsyed/chai-code-cohort/blob/main/lectureNotes/week-04/readme.md"
+    }
+  },
+  {
+    "name": "week-05",
+    "path": "lectureNotes/week-05",
+    "sha": "5eaf9301bd518dc0387ff7f02844522ad9dfbdd8",
+    "size": 0,
+    "url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/lectureNotes/week-05?ref=main",
+    "html_url": "https://github.com/webkmsyed/chai-code-cohort/tree/main/lectureNotes/week-05",
+    "git_url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/trees/5eaf9301bd518dc0387ff7f02844522ad9dfbdd8",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/lectureNotes/week-05?ref=main",
+      "git": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/trees/5eaf9301bd518dc0387ff7f02844522ad9dfbdd8",
+      "html": "https://github.com/webkmsyed/chai-code-cohort/tree/main/lectureNotes/week-05"
+    }
+  },
+  {
+    "name": "readme.md",
+    "path": "lectureNotes/week-05/readme.md",
+    "sha": "9297d256d12d98e57061aba866f7a84aab04dc9b",
+    "size": 10,
+    "url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/lectureNotes/week-05/readme.md?ref=main",
+    "html_url": "https://github.com/webkmsyed/chai-code-cohort/blob/main/lectureNotes/week-05/readme.md",
+    "git_url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/blobs/9297d256d12d98e57061aba866f7a84aab04dc9b",
+    "download_url": "https://raw.githubusercontent.com/webkmsyed/chai-code-cohort/main/lectureNotes/week-05/readme.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/lectureNotes/week-05/readme.md?ref=main",
+      "git": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/blobs/9297d256d12d98e57061aba866f7a84aab04dc9b",
+      "html": "https://github.com/webkmsyed/chai-code-cohort/blob/main/lectureNotes/week-05/readme.md"
+    }
+  },
+  {
+    "name": "week-06",
+    "path": "lectureNotes/week-06",
+    "sha": "fec5cba0962ec8cb43cd80cd708a23d85cfa350a",
+    "size": 0,
+    "url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/lectureNotes/week-06?ref=main",
+    "html_url": "https://github.com/webkmsyed/chai-code-cohort/tree/main/lectureNotes/week-06",
+    "git_url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/trees/fec5cba0962ec8cb43cd80cd708a23d85cfa350a",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/lectureNotes/week-06?ref=main",
+      "git": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/trees/fec5cba0962ec8cb43cd80cd708a23d85cfa350a",
+      "html": "https://github.com/webkmsyed/chai-code-cohort/tree/main/lectureNotes/week-06"
+    }
+  },
+  {
+    "name": "readme.md",
+    "path": "lectureNotes/week-06/readme.md",
+    "sha": "ebca92057fbe167e6e994ad4982c2290776ec561",
+    "size": 10,
+    "url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/lectureNotes/week-06/readme.md?ref=main",
+    "html_url": "https://github.com/webkmsyed/chai-code-cohort/blob/main/lectureNotes/week-06/readme.md",
+    "git_url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/blobs/ebca92057fbe167e6e994ad4982c2290776ec561",
+    "download_url": "https://raw.githubusercontent.com/webkmsyed/chai-code-cohort/main/lectureNotes/week-06/readme.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/lectureNotes/week-06/readme.md?ref=main",
+      "git": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/blobs/ebca92057fbe167e6e994ad4982c2290776ec561",
+      "html": "https://github.com/webkmsyed/chai-code-cohort/blob/main/lectureNotes/week-06/readme.md"
+    }
+  },
+  {
+    "name": "week-07",
+    "path": "lectureNotes/week-07",
+    "sha": "0e79555fae2d5e9a1ae2c789123723780fe9770f",
+    "size": 0,
+    "url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/lectureNotes/week-07?ref=main",
+    "html_url": "https://github.com/webkmsyed/chai-code-cohort/tree/main/lectureNotes/week-07",
+    "git_url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/trees/0e79555fae2d5e9a1ae2c789123723780fe9770f",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/lectureNotes/week-07?ref=main",
+      "git": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/trees/0e79555fae2d5e9a1ae2c789123723780fe9770f",
+      "html": "https://github.com/webkmsyed/chai-code-cohort/tree/main/lectureNotes/week-07"
+    }
+  },
+  {
+    "name": "readme.md",
+    "path": "lectureNotes/week-07/readme.md",
+    "sha": "ae9438cf2a7e143461fa65e20e5437fd7fa8d11f",
+    "size": 10,
+    "url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/lectureNotes/week-07/readme.md?ref=main",
+    "html_url": "https://github.com/webkmsyed/chai-code-cohort/blob/main/lectureNotes/week-07/readme.md",
+    "git_url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/blobs/ae9438cf2a7e143461fa65e20e5437fd7fa8d11f",
+    "download_url": "https://raw.githubusercontent.com/webkmsyed/chai-code-cohort/main/lectureNotes/week-07/readme.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/lectureNotes/week-07/readme.md?ref=main",
+      "git": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/blobs/ae9438cf2a7e143461fa65e20e5437fd7fa8d11f",
+      "html": "https://github.com/webkmsyed/chai-code-cohort/blob/main/lectureNotes/week-07/readme.md"
+    }
+  },
+  {
+    "name": "week-08",
+    "path": "lectureNotes/week-08",
+    "sha": "003119be8956b0c44cfdcbe8bfc2a476667c3077",
+    "size": 0,
+    "url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/lectureNotes/week-08?ref=main",
+    "html_url": "https://github.com/webkmsyed/chai-code-cohort/tree/main/lectureNotes/week-08",
+    "git_url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/trees/003119be8956b0c44cfdcbe8bfc2a476667c3077",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/lectureNotes/week-08?ref=main",
+      "git": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/trees/003119be8956b0c44cfdcbe8bfc2a476667c3077",
+      "html": "https://github.com/webkmsyed/chai-code-cohort/tree/main/lectureNotes/week-08"
+    }
+  },
+  {
+    "name": "readme.md",
+    "path": "lectureNotes/week-08/readme.md",
+    "sha": "12ef4b23294f01d08a89e79b0578e5600daa3dc9",
+    "size": 10,
+    "url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/lectureNotes/week-08/readme.md?ref=main",
+    "html_url": "https://github.com/webkmsyed/chai-code-cohort/blob/main/lectureNotes/week-08/readme.md",
+    "git_url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/blobs/12ef4b23294f01d08a89e79b0578e5600daa3dc9",
+    "download_url": "https://raw.githubusercontent.com/webkmsyed/chai-code-cohort/main/lectureNotes/week-08/readme.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/lectureNotes/week-08/readme.md?ref=main",
+      "git": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/blobs/12ef4b23294f01d08a89e79b0578e5600daa3dc9",
+      "html": "https://github.com/webkmsyed/chai-code-cohort/blob/main/lectureNotes/week-08/readme.md"
+    }
+  },
+  {
+    "name": "projects",
+    "path": "projects",
+    "sha": "38d2b5ec6fd806b4cc664fb1701e97bf07730aeb",
+    "size": 0,
+    "url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/projects?ref=main",
+    "html_url": "https://github.com/webkmsyed/chai-code-cohort/tree/main/projects",
+    "git_url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/trees/38d2b5ec6fd806b4cc664fb1701e97bf07730aeb",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/projects?ref=main",
+      "git": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/trees/38d2b5ec6fd806b4cc664fb1701e97bf07730aeb",
+      "html": "https://github.com/webkmsyed/chai-code-cohort/tree/main/projects"
+    }
+  },
+  {
+    "name": "readme.md",
+    "path": "projects/readme.md",
+    "sha": "34db979c5782b88d720c7949578d6c28af20c0d8",
+    "size": 21,
+    "url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/projects/readme.md?ref=main",
+    "html_url": "https://github.com/webkmsyed/chai-code-cohort/blob/main/projects/readme.md",
+    "git_url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/blobs/34db979c5782b88d720c7949578d6c28af20c0d8",
+    "download_url": "https://raw.githubusercontent.com/webkmsyed/chai-code-cohort/main/projects/readme.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/projects/readme.md?ref=main",
+      "git": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/blobs/34db979c5782b88d720c7949578d6c28af20c0d8",
+      "html": "https://github.com/webkmsyed/chai-code-cohort/blob/main/projects/readme.md"
+    }
+  },
+  {
+    "name": "scripts",
+    "path": "scripts",
+    "sha": "39002560ea0affa5f665ef83eb32d76a649aab45",
+    "size": 0,
+    "url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/scripts?ref=main",
+    "html_url": "https://github.com/webkmsyed/chai-code-cohort/tree/main/scripts",
+    "git_url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/trees/39002560ea0affa5f665ef83eb32d76a649aab45",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/scripts?ref=main",
+      "git": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/trees/39002560ea0affa5f665ef83eb32d76a649aab45",
+      "html": "https://github.com/webkmsyed/chai-code-cohort/tree/main/scripts"
+    }
+  },
+  {
+    "name": "generate-contents.js",
+    "path": "scripts/generate-contents.js",
+    "sha": "8e9d6356c4ce67b45b367142222973b1774dea9d",
+    "size": 1784,
+    "url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/scripts/generate-contents.js?ref=main",
+    "html_url": "https://github.com/webkmsyed/chai-code-cohort/blob/main/scripts/generate-contents.js",
+    "git_url": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/blobs/8e9d6356c4ce67b45b367142222973b1774dea9d",
+    "download_url": "https://raw.githubusercontent.com/webkmsyed/chai-code-cohort/main/scripts/generate-contents.js",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/webkmsyed/chai-code-cohort/contents/scripts/generate-contents.js?ref=main",
+      "git": "https://api.github.com/repos/webkmsyed/chai-code-cohort/git/blobs/8e9d6356c4ce67b45b367142222973b1774dea9d",
+      "html": "https://github.com/webkmsyed/chai-code-cohort/blob/main/scripts/generate-contents.js"
+    }
+  }
+]
