@@ -1,0 +1,12 @@
+{
+  "name": "contents-generator",
+  "version": "1.0.0",
+  "description": "Generate static JSON for repo contents",
+  "main": "scripts/generate-contents.js",
+  "scripts": {
+    "generate": "node scripts/generate-contents.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
