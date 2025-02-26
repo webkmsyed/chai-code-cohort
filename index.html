@@ -1,0 +1,393 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Chai Code Cohort File Explorer</title>
+  <!-- Materialize CSS for styling -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css"/>
+  <!-- Font Awesome for icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"/>
+  <style>
+    /* Light mode styles */
+    body {
+      background-color: #ffffff;
+      color: #000;
+    }
+    /* Dark mode styles: input stays white with black text, and cards have light background */
+    body.dark {
+      background-color: #121212;
+      color: #fff;
+    }
+    body.dark .input-field input {
+      background-color: #fff !important;
+      color: #000 !important;
+    }
+    body.dark .collection-item,
+    body.dark .file-card {
+      background-color: #e3f2fd !important;
+      color: #000 !important;
+    }
+    nav .brand-logo { font-size: 1.5rem; }
+    .dropdown-btn {
+      width: 100%;
+      text-align: left;
+      padding: 10px;
+      background: #1976d2;
+      color: #fff;
+      font-size: 1.1rem;
+      border: none;
+      cursor: pointer;
+      margin-bottom: 5px;
+    }
+    .sub-container {
+      padding-left: 20px;
+      margin-bottom: 10px;
+    }
+    .hidden { display: none; }
+    .slider-container { 
+      overflow-x: auto; 
+      white-space: nowrap; 
+      margin: 10px 0; 
+      padding-bottom: 10px; 
+    }
+    .file-card {
+      display: inline-block;
+      width: 150px;
+      margin-right: 10px;
+      text-align: center;
+      background: #f5f5f5;
+      border-radius: 5px;
+      padding: 5px;
+      box-sizing: border-box;
+    }
+    .file-card img {
+      width: 50px;
+      height: 50px;
+      object-fit: cover;
+      margin-bottom: 5px;
+    }
+    .file-card p {
+      font-size: 0.9rem;
+      margin: 5px 0;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    .file-card > div {
+      display: flex;
+      justify-content: center;
+      gap: 4px;
+      flex-wrap: wrap;
+    }
+    #searchSuggestions { margin-top: 10px; }
+    #searchSuggestions li img {
+      width: 20px;
+      height: 20px;
+      vertical-align: middle;
+      margin-right: 8px;
+    }
+    #searchSuggestions li small {
+      color: #1976d2;
+      font-style: italic;
+      margin-left: 5px;
+    }
+    #loader { margin: 20px auto; width: 50px; }
+    /* Modal styling for preview */
+    .modal { max-height: 80vh; }
+    #modalContent {
+      max-height: 60vh;
+      overflow-y: auto;
+      background: #f0f0f0;
+      padding: 10px;
+      border-radius: 4px;
+      white-space: pre-wrap;
+      word-wrap: break-word;
+    }
+  </style>
+</head>
+<body>
+  <!-- Navigation Bar -->
+  <nav class="blue">
+    <div class="nav-wrapper container">
+      <a href="#" class="brand-logo">Chai Code Cohort</a>
+      <ul id="nav-mobile" class="right hide-on-med-and-down">
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Blog</a></li>
+        <li><a href="https://github.com/webkmsyed/chai-code-cohort" target="_blank">GitHub</a></li>
+        <li><a href="#">Contact</a></li>
+        <li><a href="#">About</a></li>
+        <li><a id="modeToggle" href="#">Toggle Mode</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <!-- Search Bar -->
+  <div class="container" style="margin-top: 20px;">
+    <div class="input-field">
+      <input id="searchInput" type="text" placeholder="Search files and folders..." />
+      <label for="searchInput">Search</label>
+    </div>
+    <ul id="searchSuggestions" class="collection"></ul>
+  </div>
+
+  <!-- Loader Spinner -->
+  <div id="loader" class="container center-align">
+    <div class="preloader-wrapper active">
+      <div class="spinner-layer spinner-blue-only">
+        <div class="circle-clipper left"><div class="circle"></div></div>
+        <div class="gap-patch"><div class="circle"></div></div>
+        <div class="circle-clipper right"><div class="circle"></div></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- File Explorer Container -->
+  <div class="container" id="fileExplorer" style="display:none;"></div>
+
+  <!-- Preview Modal (Materialize) -->
+  <div id="previewModal" class="modal">
+    <div class="modal-content">
+      <h4 id="modalTitle">File Preview</h4>
+      <pre id="modalContent"></pre>
+    </div>
+    <div class="modal-footer">
+      <a id="modalDownload" class="modal-close btn-small">Download</a>
+      <a id="modalShare" class="modal-close btn-small">Share</a>
+      <a id="modalFullPreview" class="modal-close btn-small">Full Preview</a>
+    </div>
+  </div>
+
+  <!-- Materialize JS -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+  <script>
+    // Toggle light/dark mode
+    document.getElementById('modeToggle').addEventListener('click', function(e) {
+      e.preventDefault();
+      document.body.classList.toggle('dark');
+    });
+
+    // Update the JSON_URL to use your custom domain
+    const JSON_URL = 'https://chaicode.webkmsyed.com/data/contents.json';
+    let allItems = [];
+
+    // Utility: get thumbnail URL based on file extension or if folder
+    function getThumbnailUrl(item) {
+      if (item.type === 'dir') {
+        return "https://img.icons8.com/fluency/48/000000/folder-invoices.png";
+      }
+      const ext = item.name.split('.').pop().toLowerCase();
+      const imageExtensions = ['png','jpg','jpeg','gif','bmp'];
+      if(imageExtensions.includes(ext)) return item.download_url;
+      if(ext === 'pdf') return "https://img.icons8.com/color/48/000000/pdf.png";
+      if(['doc','docx'].includes(ext)) return "https://img.icons8.com/color/48/000000/word.png";
+      if(['xls','xlsx'].includes(ext)) return "https://img.icons8.com/color/48/000000/excel.png";
+      if(ext === 'md') return "https://img.icons8.com/fluency/48/000000/markdown.png";
+      if(['js','html','css','py','java','c','cpp'].includes(ext)) return "https://img.icons8.com/color/48/000000/code.png";
+      return "https://via.placeholder.com/50";
+    }
+
+    // Utility: Given an item's path, return its parent folder
+    function getFolderPath(item) {
+      if(item.type === 'file'){
+        const idx = item.path.lastIndexOf('/');
+        return idx !== -1 ? item.path.substring(0, idx) : '';
+      }
+      return item.path;
+    }
+
+    // Build a tree structure from a flat list of items
+    function buildTree(items) {
+      const root = { name: '', type: 'dir', path: '', children: [] };
+      items.forEach(item => {
+        const parts = item.path.split('/');
+        let current = root;
+        parts.forEach((part, index) => {
+          if (index === parts.length - 1) {
+            current.children.push(Object.assign({}, item, { children: [] }));
+          } else {
+            let folder = current.children.find(child => child.name === part && child.type === 'dir');
+            if (!folder) {
+              folder = { name: part, type: 'dir', path: parts.slice(0, index+1).join('/'), children: [] };
+              current.children.push(folder);
+            }
+            current = folder;
+          }
+        });
+      });
+      return root;
+    }
+
+    // Recursively create dropdown UI from tree
+    function createTreeUI(node) {
+      const container = document.createElement('div');
+      if (node.path) {
+        const btn = document.createElement('button');
+        btn.className = 'dropdown-btn btn';
+        btn.textContent = node.name;
+        btn.id = 'dropdown-' + node.path.replace(/\//g, '-');
+        container.appendChild(btn);
+        const subContainer = document.createElement('div');
+        subContainer.className = 'sub-container hidden';
+        container.appendChild(subContainer);
+        btn.addEventListener('click', () => {
+          subContainer.classList.toggle('hidden');
+        });
+        if (node.children && node.children.length > 0) {
+          node.children.forEach(child => {
+            subContainer.appendChild(createTreeUI(child));
+          });
+        }
+        return container;
+      } else {
+        node.children.forEach(child => {
+          container.appendChild(createTreeUI(child));
+        });
+        return container;
+      }
+    }
+
+    // Create a horizontal slider for files
+    function createFileSlider(files) {
+      const slider = document.createElement('div');
+      slider.className = 'slider-container';
+      files.forEach(file => {
+        slider.appendChild(createFileCard(file));
+      });
+      return slider;
+    }
+
+    // Create file card element
+    function createFileCard(file) {
+      const card = document.createElement('div');
+      card.className = 'file-card card';
+      const iconUrl = getThumbnailUrl(file);
+      card.innerHTML = `
+        <img src="${iconUrl}" alt="${file.name}">
+        <p title="${file.name}">${file.name}</p>
+        <div>
+          <button class="btn-small view-btn tooltipped" data-tooltip="Preview"><i class="fas fa-eye"></i></button>
+          <button class="btn-small download-btn tooltipped" data-tooltip="Download"><i class="fas fa-download"></i></button>
+          <button class="btn-small share-btn tooltipped" data-tooltip="Share"><i class="fas fa-share-alt"></i></button>
+        </div>
+      `;
+      card.querySelector('.view-btn').addEventListener('click', () => {
+        openPreview(file);
+      });
+      card.querySelector('.download-btn').addEventListener('click', () => {
+        downloadFile(file.download_url, file.name);
+      });
+      card.querySelector('.share-btn').addEventListener('click', async () => {
+        try {
+          await navigator.clipboard.writeText(file.download_url);
+          M.toast({html: 'File URL copied to clipboard!'});
+        } catch (err) {
+          M.toast({html: 'Failed to copy URL!'});
+        }
+      });
+      return card;
+    }
+
+    // Force download file using blob
+    async function downloadFile(url, filename) {
+      try {
+        const response = await fetch(url);
+        const blob = await response.blob();
+        const blobUrl = window.URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        a.href = blobUrl;
+        a.download = filename;
+        document.body.appendChild(a);
+        a.click();
+        a.remove();
+      } catch (err) {
+        console.error('Download error:', err);
+      }
+    }
+
+    // Open preview modal and load file content
+    async function openPreview(file) {
+      const modalElem = document.getElementById('previewModal');
+      const modalInstance = M.Modal.getInstance(modalElem);
+      document.getElementById('modalTitle').textContent = file.name;
+      const modalContentElem = document.getElementById('modalContent');
+      modalContentElem.textContent = 'Loading...';
+      try {
+        const res = await fetch(file.download_url);
+        const text = await res.text();
+        modalContentElem.textContent = text;
+      } catch (err) {
+        modalContentElem.textContent = 'Failed to load content.';
+      }
+      document.getElementById('modalDownload').onclick = () => {
+        downloadFile(file.download_url, file.name);
+      };
+      document.getElementById('modalShare').onclick = async () => {
+        try {
+          await navigator.clipboard.writeText(file.download_url);
+          M.toast({html: 'File URL copied to clipboard!'});
+        } catch (err) {
+          M.toast({html: 'Failed to copy URL!'});
+        }
+      };
+      document.getElementById('modalFullPreview').onclick = () => {
+        window.open(file.download_url, '_blank');
+      };
+      modalInstance.open();
+    }
+
+    // Global search suggestions (files and folders)
+    function renderSearchSuggestions(query) {
+      const suggestions = document.getElementById('searchSuggestions');
+      suggestions.innerHTML = '';
+      if (!query) return;
+      const matches = allItems.filter(item => item.name.toLowerCase().includes(query.toLowerCase()));
+      matches.forEach(item => {
+        const li = document.createElement('li');
+        li.className = 'collection-item';
+        li.style.cursor = 'pointer';
+        const folderPath = getFolderPath(item);
+        li.innerHTML = `<img src="${getThumbnailUrl(item)}"> ${item.name} <small>(${folderPath})</small>`;
+        li.addEventListener('click', () => {
+          if (item.type === 'dir') {
+            const targetId = 'dropdown-' + item.path.replace(/\//g, '-');
+            const target = document.getElementById(targetId);
+            if (target) {
+              target.scrollIntoView({behavior: 'smooth'});
+              if (target.parentElement.querySelector('.sub-container').classList.contains('hidden')) {
+                target.click();
+              }
+            }
+          } else {
+            openPreview(item);
+          }
+        });
+        suggestions.appendChild(li);
+      });
+    }
+
+    document.getElementById('searchInput').addEventListener('input', function() {
+      const query = this.value.trim();
+      renderSearchSuggestions(query);
+    });
+
+    // Initialization: fetch JSON, build tree UI
+    document.addEventListener('DOMContentLoaded', async function() {
+      M.Modal.init(document.querySelectorAll('.modal'));
+      M.Tooltip.init(document.querySelectorAll('.tooltipped'));
+      try {
+        const res = await fetch(JSON_URL);
+        allItems = await res.json();
+        const tree = buildTree(allItems);
+        const explorer = createTreeUI(tree);
+        document.getElementById('fileExplorer').appendChild(explorer);
+      } catch (err) {
+        console.error(err);
+      } finally {
+        document.getElementById('loader').style.display = 'none';
+        document.getElementById('fileExplorer').style.display = 'block';
+      }
+    });
+  </script>
+</body>
+</html>
