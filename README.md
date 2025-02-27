@@ -67,6 +67,7 @@
 
 <details>
   <summary><h3>Lecture Notes</h3></summary>
+  
 <details>
   <summary>Week 01</summary>
 
@@ -77,7 +78,7 @@
   | ![Thumb](path/to/thumbnail.png) | [Lecture01.js](Lecture%20Notes/Week%2001/Lecture01.js) | JavaScript code file |
   | ![Thumb](path/to/thumbnail.png) | [Notes.txt](Lecture%20Notes/Week%2001/Notes.txt)       | Text notes           |
   | ![Thumb](path/to/thumbnail.png) | [README.md](Lecture%20Notes/Week%2001/README.md)       | Markdown summary     |
-
+  
 </details>
 
 <details>
@@ -90,13 +91,14 @@
   | ![Thumb](path/to/thumbnail.png) | [Lecture02.js](Lecture%20Notes/Week%2002/Lecture02.js) | JavaScript code file |
   | ![Thumb](path/to/thumbnail.png) | [Notes.txt](Lecture%20Notes/Week%2002/Notes.txt)       | Text notes           |
   | ![Thumb](path/to/thumbnail.png) | [README.md](Lecture%20Notes/Week%2002/README.md)       | Markdown summary     |
+  
 </details>
 
 </details>
 
 <details>
   <summary><h3>Interview & Coding Practice</h3></summary>
-
+  
 <details>
   <summary>JavaScript DSA</summary>
   
@@ -106,6 +108,7 @@
   | --------- | ----------------- | ------------------- |
   | ![Thumb](path/to/thumbnail.png) | [Practice1.js](Interview%20Coding%20Practice/Practice%20Set%201/Practice1.js) | Coding challenge    |
   | ![Thumb](path/to/thumbnail.png) | [TestCases.txt](Interview%20Coding%20Practice/Practice%20Set%201/TestCases.txt) | Test cases        |
+  
 </details>
 
 <details>
@@ -116,7 +119,8 @@
   | Thumbnail | File Name         | Description         |
   | --------- | ----------------- | ------------------- |
   | ![Thumb](path/to/thumbnail.png) | [Practice2.js](Interview%20Coding%20Practice/Practice%20Set%202/Practice2.js) | Coding challenge    |
-  | ![Thumb](path/to/thumbnail.png) | [TestCases.txt](Interview%20Coding%20Practice/Practice%20Set%202/TestCases.txt) | Test cases          |
+  | ![Thumb](path/to/thumbnail.png) | [TestCases.txt](Interview%20Coding%20Practice/Practice%20Set%202/TestCases.txt) | Test cases        |
+  
 </details>
 
 <details>
@@ -128,6 +132,7 @@
   | --------- | ----------------- | ------------------- |
   | ![Thumb](path/to/thumbnail.png) | [Practice2.js](Interview%20Coding%20Practice/Practice%20Set%202/Practice2.js) | Coding challenge    |
   | ![Thumb](path/to/thumbnail.png) | [TestCases.txt](Interview%20Coding%20Practice/Practice%20Set%202/TestCases.txt) | Test cases          |
+  
 </details>
 
 </details>
@@ -238,7 +243,6 @@
 
 <details>
   <summary><h3>Other Blogs</h3></summary>
-
   
 <details>  
   <summary><h4>Web Basics</h4><br><img src="assets/thumbnails/blog-series-thumbnails/web-basic-cover.webp" alt="Web Basics Series" width="200" style="border-radius: 15px;" margin="15px"></summary>
