@@ -59,9 +59,9 @@
       <img src="https://github-readme-stats.vercel.app/api?username=piyushgarg-dev&show_icons=true&theme=radical">
     </td>
   </tr>
-</table><br/>
+</table>
 
-<!------------------------------------------------------------------Notes Section---------------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------Notes Section-------------------------------------------------------------------------------------------------------------->
 
 <h2 align="center">📌Notes Directory</h2>
 
@@ -78,7 +78,6 @@
 | ![Thumb](path/to/thumbnail.png) | [Lecture01.js](Lecture%20Notes/Week%2001/Lecture01.js) | JavaScript code file |
 | ![Thumb](path/to/thumbnail.png) | [Notes.txt](Lecture%20Notes/Week%2001/Notes.txt) | Text notes |
 | ![Thumb](path/to/thumbnail.png) | [README.md](Lecture%20Notes/Week%2001/README.md) | Markdown summary |
-
 </details>
 
 <details>
@@ -91,9 +90,7 @@
 | ![Thumb](path/to/thumbnail.png) | [Lecture02.js](Lecture%20Notes/Week%2002/Lecture02.js) | JavaScript code file |
 | ![Thumb](path/to/thumbnail.png) | [Notes.txt](Lecture%20Notes/Week%2002/Notes.txt) | Text notes |
 | ![Thumb](path/to/thumbnail.png) | [README.md](Lecture%20Notes/Week%2002/README.md) | Markdown summary |
-
 </details>
-
 </details>
 
 <details>
@@ -108,7 +105,6 @@
 | --------- | --------- | ----------- |
 | ![Thumb](path/to/thumbnail.png) | [Practice1.js](Interview%20Coding%20Practice/Practice%20Set%201/Practice1.js) | Coding challenge |
 | ![Thumb](path/to/thumbnail.png) | [TestCases.txt](Interview%20Coding%20Practice/Practice%20Set%201/TestCases.txt) | Test cases |
-
 </details>
 
 <details>
@@ -120,7 +116,6 @@
 | --------- | --------- | ----------- |
 | ![Thumb](path/to/thumbnail.png) | [Practice2.js](Interview%20Coding%20Practice/Practice%20Set%202/Practice2.js) | Coding challenge |
 | ![Thumb](path/to/thumbnail.png) | [TestCases.txt](Interview%20Coding%20Practice/Practice%20Set%202/TestCases.txt) | Test cases |
-
 </details>
 
 <details>
@@ -134,10 +129,8 @@
 | ![Thumb](path/to/thumbnail.png) | [TestCases.txt](Interview%20Coding%20Practice/Practice%20Set%202/TestCases.txt) | Test cases |
 
 </details>
-
 </details>
 
-<br><br><br>
 
 <!------------------------------------------------------------------Porject Section--------------------------------------------------------------------------------------------------------->
 
@@ -251,7 +244,6 @@
 | <a href="https://jargoniseasy.com/http-vs-https" target="_blank"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1739176050382/c1b73cb9-9319-45d2-a413-adf69ac45a04.webp?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="HTTP v/s HTTPS" width="200"></a> | <a href="https://jargoniseasy.com/tcp-3-way-handshake" target="_blank"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1738052939113/54662de0-86ea-4b6b-a0c8-ebb80ee59fe2.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="TCP/IP 3 wya handshake" width="200"></a> | <a href="https://jargoniseasy.com/tcpip-basics" target="_blank"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1738000857920/997c9ce2-4647-4386-8085-4229f3e55e9e.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="TCP IP Basics" width="200"></a> |
 | ------------- | ------------- | ------------- | 
 | <a href="https://jargoniseasy.com/client-side-vs-server-side" target="_blank"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1737970308830/259c9930-5cda-4741-a229-c719520cd360.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Client Side vs Server Side" width="200"></a> | <a href="https://jargoniseasy.com/dns-hierarchy-from-root-to-authoritative-servers" target="_blank"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1737879891197/147e4e9e-7832-41ce-a9e0-91c6eff3bacf.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="DNS Server Hierarchy" width="200"></a> | <a href="https://jargoniseasy.com/browser-and-your-data-journey" target="_blank"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1737565218797/8fe49aea-638f-4382-990a-ea46e44d22a0.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Browser and Data Journey" width="200"></a> |
-
 </details>
 
 <details>  
@@ -260,9 +252,7 @@
 | <a href="#" target="_blank"></a> | <a href="#" target="_blank"></a> | <a href="#" target="_blank"></a> |
 | ------------- | --------- | ----------- | 
 | <a href="https://jargoniseasy.com/html-short-notes" target="_blank"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1739378047924/b5d8f418-ddab-4605-8964-866bccfc750b.webp?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="HTML Exam Interview Notes" width="200"></a> | <a href="https://jargoniseasy.com/the-html-theory" target="_blank"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1739296912944/36b0dd1e-8b87-453d-870b-fdc42c0301a9.webp?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="HTML Basics" width="200"></a> | <a href="https://jargoniseasy.com/series/html" target="_blank">Coming Soon</a> |
-
 </details>
-
 </details>
 
 <!-- Samples of different blog grids-->
@@ -274,7 +264,7 @@
 <a href="https://jargoniseasy.com/series/javascript" target="_blank"><img src="https://github.com/webkmsyed/webkmsyed/raw/main/images/blogPost/js-cover.webp" alt="JavaScript Series" width="200" style="border-radius: 15px;" margin="15px"></a>
 <a href="https://jargoniseasy.com/series/javascript" target="_blank"><img src="https://github.com/webkmsyed/webkmsyed/raw/main/images/blogPost/js-cover.webp" alt="JavaScript Series" width="200" style="border-radius: 15px;" margin="15px"></a>
 -->
-<br><br>
+
 
 <!------------------------------------------------------------------Skills Section--------------------------------------------------------------------------------------------------------------->
 
