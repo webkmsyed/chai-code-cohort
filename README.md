@@ -32,7 +32,7 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="200px">
+    <td align="center" width="50%">
       <img src="./assets/hitesh_profile.png" alt="Hitesh Choudhary" width="150px" margin="5px" style="border-radius: 50%;">
       <h3>🏆<br>Hitesh Choudhary</h3>
       <a href="https://github.com/hiteshchoudhary"><img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
@@ -43,7 +43,7 @@
       <br><br>
       <img src="https://github-readme-stats.vercel.app/api?username=hiteshchoudhary&show_icons=true&theme=radical">
     </td>
-    <td align="center" width="200px">
+    <td align="center" width="50%">
       <img src="./assets/piyush.webp" alt="Piyush Garg" width="150px" style="border-radius: 50%;">
       <h3>🏆<br>Piyush Garg</h3>
       <a href="https://github.com/piyushgarg-dev"><img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
