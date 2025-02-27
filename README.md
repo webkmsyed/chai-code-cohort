@@ -34,7 +34,7 @@
   <tr>
     <td align="center">
       <img src="./assets/hitesh_profile.png" alt="Hitesh Choudhary" width="150" style="border-radius: 50%;">
-      <h3>🏆 Hitesh Choudhary</h3>
+      <h3>🏆<br>Hitesh Choudhary</h3>
       <a href="https://github.com/hiteshchoudhary"><img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
       <a href="https://hiteshchoudhary.com/"><img src="https://img.shields.io/badge/Website-0e76a8?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
       <a href="https://twitter.com/Hiteshdotcom"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=Twitter&logoColor=black"></a>
@@ -45,7 +45,7 @@
     </td>
     <td align="center">
       <img src="./assets/piyush.webp" alt="Piyush Garg" width="150" style="border-radius: 50%;">
-      <h3>🏆 Piyush Garg</h3>
+      <h3>🏆<br>Piyush Garg</h3>
       <a href="https://github.com/piyushgarg-dev"><img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
       <a href="https://www.piyushgarg.dev/"><img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
       <a href="https://twitter.com/piyushgarg_dev"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=Twitter&logoColor=white"></a>
