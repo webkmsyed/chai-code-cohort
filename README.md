@@ -34,7 +34,9 @@
   <tr>
     <td align="center" width="50%">
       <img src="assets/hitesh_profile.png" alt="Hitesh Choudhary" width="150px" style="border-radius: 100%;">
-      <h3>🏆<br>Hitesh<br>Choudhary</h3>
+      <h3>🏆</h3>
+      <h3>Hitesh</h3>
+      <h3>Choudhary</h3>
       <a href="https://github.com/hiteshchoudhary"><img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
       <a href="https://hiteshchoudhary.com/"><img src="https://img.shields.io/badge/Website-0e76a8?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
       <a href="https://twitter.com/Hiteshdotcom"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=Twitter&logoColor=black"></a>
@@ -176,7 +178,7 @@
 
 <h2 align="center">📌Blogs</h2>
 
-### 🔥 Top Posts
+### 🔥 Top Blogs
 
 <table>
   <tr>
