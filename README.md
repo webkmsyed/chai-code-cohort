@@ -33,7 +33,7 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="./assets/hitesh_profile.png" alt="Hitesh Choudhary" width="150px" margin="5px" style="border-radius: 50%;">
+      <img src="assets/hitesh_profile.png" alt="Hitesh Choudhary" width="150px" style="border-radius: 50%;">
       <h3>🏆<br>Hitesh Choudhary</h3>
       <a href="https://github.com/hiteshchoudhary"><img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
       <a href="https://hiteshchoudhary.com/"><img src="https://img.shields.io/badge/Website-0e76a8?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
@@ -44,8 +44,8 @@
       <img src="https://github-readme-stats.vercel.app/api?username=hiteshchoudhary&show_icons=true&theme=radical">
     </td>
     <td align="center" width="50%">
-      <img src="./assets/piyush.webp" alt="Piyush Garg" width="150px" style="border-radius: 50%;">
-      <h3>🏆<br>Piyush Garg</h3>
+      <img src="assets/piyush.webp" alt="Piyush Garg" width="150px" style="border-radius: 50%;">
+      <h3>🏆<br>Piyush Garg     </h3>
       <a href="https://github.com/piyushgarg-dev"><img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
       <a href="https://www.piyushgarg.dev/"><img src="https://img.shields.io/badge/Website-0e76a8?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
       <a href="https://twitter.com/piyushgarg_dev"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=Twitter&logoColor=white"></a>
@@ -58,6 +58,120 @@
 </table><br/>
 
 <h2 align="center">📌Notes Directory</h2>
+
+### Lecture Notes
+
+<details>
+  <summary>Week 01</summary>
+
+  **Files:**
+
+  | Thumbnail | File Name        | Description             |
+  | --------- | ---------------- | ----------------------- |
+  | ![Thumb](path/to/thumbnail.png) | [Lecture01.js](Lecture%20Notes/Week%2001/Lecture01.js) | JavaScript code file |
+  | ![Thumb](path/to/thumbnail.png) | [Notes.txt](Lecture%20Notes/Week%2001/Notes.txt)       | Text notes           |
+  | ![Thumb](path/to/thumbnail.png) | [README.md](Lecture%20Notes/Week%2001/README.md)       | Markdown summary     |
+
+</details>
+
+<details>
+  <summary>Week 02</summary>
+
+  **Files:**
+
+  | Thumbnail | File Name        | Description             |
+  | --------- | ---------------- | ----------------------- |
+  | ![Thumb](path/to/thumbnail.png) | [Lecture02.js](Lecture%20Notes/Week%2002/Lecture02.js) | JavaScript code file |
+  | ![Thumb](path/to/thumbnail.png) | [Notes.txt](Lecture%20Notes/Week%2002/Notes.txt)       | Text notes           |
+  | ![Thumb](path/to/thumbnail.png) | [README.md](Lecture%20Notes/Week%2002/README.md)       | Markdown summary     |
+
+</details>
+
+<details>
+  <summary>Week 03</summary>
+
+  **Files:**
+
+  | Thumbnail | File Name        | Description             |
+  | --------- | ---------------- | ----------------------- |
+  | ![Thumb](path/to/thumbnail.png) | [Lecture03.js](Lecture%20Notes/Week%2003/Lecture03.js) | JavaScript code file |
+  | ![Thumb](path/to/thumbnail.png) | [Notes.txt](Lecture%20Notes/Week%2003/Notes.txt)       | Text notes           |
+  | ![Thumb](path/to/thumbnail.png) | [README.md](Lecture%20Notes/Week%2003/README.md)       | Markdown summary     |
+
+</details>
+
+
+### Interview & Coding Practice
+
+<details>
+  <summary>Practice Set 1</summary>
+
+  **Files:**
+
+  | Thumbnail | File Name         | Description         |
+  | --------- | ----------------- | ------------------- |
+  | ![Thumb](path/to/thumbnail.png) | [Practice1.js](Interview%20Coding%20Practice/Practice%20Set%201/Practice1.js) | Coding challenge    |
+  | ![Thumb](path/to/thumbnail.png) | [TestCases.txt](Interview%20Coding%20Practice/Practice%20Set%201/TestCases.txt) | Test cases          |
+
+</details>
+
+<details>
+  <summary>Practice Set 2</summary>
+
+  **Files:**
+
+  | Thumbnail | File Name         | Description         |
+  | --------- | ----------------- | ------------------- |
+  | ![Thumb](path/to/thumbnail.png) | [Practice2.js](Interview%20Coding%20Practice/Practice%20Set%202/Practice2.js) | Coding challenge    |
+  | ![Thumb](path/to/thumbnail.png) | [TestCases.txt](Interview%20Coding%20Practice/Practice%20Set%202/TestCases.txt) | Test cases          |
+
+</details>
+
+
+### Projects
+
+**Files:**
+
+| Thumbnail | Project Preview | Code Files | Description |
+| --------- | --------- | ----------- | ----------- |
+| ![Thumb](path/to/thumbnail.png) | <a href="https://hashnode.com/@webkmsyed"><img src="https://img.shields.io/badge/Calculator-0A66C2?style=for-the-badge&logo=Calculator&logoColor=white"></a> | <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a> <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a> <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a> | Calculator Project |
+
+<details>
+<summary>Project - Calculator</summary>
+
+<details>
+<summary>HTML Files</summary>
+```html
+<h1>Hi</h1>
+<p>Good morning<p>
+<p>Check<p>
+
+</details>
+
+<details>
+<summary>CSS Files</summary>
+
+**Files:**
+
+| Thumbnail | File Name | Description |
+| --------- | --------- | ----------- |
+| ![Thumb](path/to/thumbnail.png) | [styles.css](Projects/Project%20Calculator/CSS/styles.css) | CSS file |
+
+</details>
+
+<details>
+<summary>JS Files</summary>
+
+**Files:**
+
+| Thumbnail | File Name | Description |
+| --------- | --------- | ----------- |
+| ![Thumb](path/to/thumbnail.png) | [script.js](Projects/Project%20Calculator/JS/script.js) | JS file |
+
+</details>
+
+</details>
+
 
 
 <h2 align="center">📌Blogs</h2>
