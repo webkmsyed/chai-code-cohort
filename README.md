@@ -1,4 +1,5 @@
-<!-- Banner -->
+<!------------------------------------------------------------------Hero Section------------------------------------------------------------------------------------------------------------------>
+
 <div align="center">  
   <img alt="Cohort Banner" src="assets/banner/cohort_banner.jpg" width="500">   
 </div><br>
@@ -10,6 +11,7 @@
 <p align="center">🌐 Official Website: <a href="https://chaicode.com/">Chai Code</a></p>
 <p align="center">📖 My Blog <a href="https://jargoniseasy.com/">Jargon is Easy</a></p><br/>
 
+<!------------------------------------------------------------------About me Section------------------------------------------------------------------------------------------------------------------>
 
 <h2 align="center">👨‍💻 About Me</h2>
 
@@ -28,7 +30,9 @@
 </p><br/>
 
 
-<h2 align="center">🎓 I Learn from Top Coders</h2>
+<!------------------------------------------------------------------Mentors Section------------------------------------------------------------------------------------------------------------------>
+
+<h2 align="center">🎓 I Learn from Top Mentors</h2>
 
 <table align="center">
   <tr>
@@ -45,7 +49,7 @@
     </td>
     <td align="center" width="50%">
       <img src="assets/avatar/piyush.webp" alt="Piyush Garg" width="150px" style="border-radius: 100%;">
-      <h3>🏆<br>Piyush Garg</h3><br>
+      <h3>🏆<br>Piyush<br>Garg</h3>
       <a href="https://github.com/piyushgarg-dev"><img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
       <a href="https://www.piyushgarg.dev/"><img src="https://img.shields.io/badge/Website-0e76a8?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
       <a href="https://twitter.com/piyushgarg_dev"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=Twitter&logoColor=white"></a>
@@ -56,6 +60,8 @@
     </td>
   </tr>
 </table><br/>
+
+<!------------------------------------------------------------------Notes Section---------------------------------------------------------------------------------------------------------------------------->
 
 <h2 align="center">📌Notes Directory</h2>
 
@@ -76,6 +82,7 @@
 
 <details>
   <summary>Week 02</summary>
+  
   **Files:**
   
   | Thumbnail | File Name        | Description             |
@@ -85,23 +92,14 @@
   | ![Thumb](path/to/thumbnail.png) | [README.md](Lecture%20Notes/Week%2002/README.md)       | Markdown summary     |
 </details>
 
-<details>
-  <summary>Week 03</summary>
-  **Files:**
-
-  | Thumbnail | File Name        | Description             |
-  | --------- | ---------------- | ----------------------- |
-  | ![Thumb](path/to/thumbnail.png) | [Lecture03.js](Lecture%20Notes/Week%2003/Lecture03.js) | JavaScript code file |
-  | ![Thumb](path/to/thumbnail.png) | [Notes.txt](Lecture%20Notes/Week%2003/Notes.txt)       | Text notes           |
-  | ![Thumb](path/to/thumbnail.png) | [README.md](Lecture%20Notes/Week%2003/README.md)       | Markdown summary     |
-</details>
 </details>
 
 <details>
   <summary><h3>Interview & Coding Practice</h3></summary>
 
 <details>
-  <summary>Practice Set 1</summary>
+  <summary>JavaScript DSA</summary>
+  
   **Files:**
 
   | Thumbnail | File Name         | Description         |
@@ -111,7 +109,8 @@
 </details>
 
 <details>
-  <summary>Practice Set 2</summary>
+  <summary>Machine Coding Round</summary>
+  
   **Files:**
 
   | Thumbnail | File Name         | Description         |
@@ -119,8 +118,22 @@
   | ![Thumb](path/to/thumbnail.png) | [Practice2.js](Interview%20Coding%20Practice/Practice%20Set%202/Practice2.js) | Coding challenge    |
   | ![Thumb](path/to/thumbnail.png) | [TestCases.txt](Interview%20Coding%20Practice/Practice%20Set%202/TestCases.txt) | Test cases          |
 </details>
+
+<details>
+  <summary>Aptitude and Reasoning</summary>
+  
+  **Files:**
+
+  | Thumbnail | File Name         | Description         |
+  | --------- | ----------------- | ------------------- |
+  | ![Thumb](path/to/thumbnail.png) | [Practice2.js](Interview%20Coding%20Practice/Practice%20Set%202/Practice2.js) | Coding challenge    |
+  | ![Thumb](path/to/thumbnail.png) | [TestCases.txt](Interview%20Coding%20Practice/Practice%20Set%202/TestCases.txt) | Test cases          |
+</details>
+
 </details>
 <br><br><br>
+
+<!------------------------------------------------------------------Porject Section--------------------------------------------------------------------------------------------------------->
 
 <h2 align="center">📌Projects</h2>
 
@@ -130,6 +143,10 @@
 | ![Thumb](path/to/thumbnail.png) | <a href="https://hashnode.com/@webkmsyed"><img src="https://img.shields.io/badge/Calculator-0A66C2?style=for-the-badge&logo=Calculator&logoColor=white"></a> | <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a> <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a> <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a> | Calculator Project |
 
 <br><br><br>
+
+<!------------------------------------------------------------------Blog Section------------------------------------------------------------------------------------------------------------>
+
+
 <h2 align="center">📌Blogs</h2>
 
 ### 🔥 Top Blogs
@@ -150,6 +167,30 @@
     <td align="center">
       <a href="https://jargoniseasy.com/html-short-notes">
         <img src="https://github.com/webkmsyed/webkmsyed/raw/main/images/blogPost/03.webp" alt="HTML Short Notes" width="200">
+      </a>
+      <br/>
+    </td>
+  </tr>
+</table>
+
+### 🆕 Recent Blogs
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://jargoniseasy.com/html-short-notes">
+        <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1739378047924/b5d8f418-ddab-4605-8964-866bccfc750b.webp?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Html Notes" width="200">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://jargoniseasy.com/the-html-theory">
+        <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1739296912944/36b0dd1e-8b87-453d-870b-fdc42c0301a9.webp?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="HTML History" width="200">
+      </a>
+      <br/>
+    </td>
+    <td align="center">
+      <a href="https://jargoniseasy.com/http-vs-https">
+        <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1739176050382/c1b73cb9-9319-45d2-a413-adf69ac45a04.webp?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="HTTP vs HTTPS" width="200">
       </a>
       <br/>
     </td>
@@ -229,6 +270,8 @@
 -->
 <br><br>
 
+<!------------------------------------------------------------------Skills Section--------------------------------------------------------------------------------------------------------------->
+
 <h2 align="center">🚀 Skills & Tech Stack Cover</h2>
 
 <div align="center">
@@ -250,8 +293,8 @@
     <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
     <a href="#"><img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white"></a>
 </div>
+<br><br>
 
----
-
-> 💡
-> **I learn from top coders and continually apply best practices in my work.**
+<footer align="center">
+  Made with ❤ by <a href="https://webkmsyed.com/">webkmsyed</a>
+</footer>
