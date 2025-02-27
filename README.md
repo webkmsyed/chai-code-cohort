@@ -32,8 +32,8 @@
 
 <table align="center">
   <tr>
-    <td align="center">
-      <img src="./assets/hitesh_profile.png" alt="Hitesh Choudhary" width="150" style="border-radius: 50%;">
+    <td align="center" min-width="100px">
+      <img src="./assets/hitesh_profile.png" alt="Hitesh Choudhary" width="150px" min-width="50px" style="border-radius: 50%;">
       <h3>🏆<br>Hitesh Choudhary</h3>
       <a href="https://github.com/hiteshchoudhary"><img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
       <a href="https://hiteshchoudhary.com/"><img src="https://img.shields.io/badge/Website-0e76a8?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
@@ -43,8 +43,8 @@
       <br><br>
       <img src="https://github-readme-stats.vercel.app/api?username=hiteshchoudhary&show_icons=true&theme=radical">
     </td>
-    <td align="center">
-      <img src="./assets/piyush.webp" alt="Piyush Garg" width="150" style="border-radius: 50%;">
+    <td align="center" min-width="100px">
+      <img src="./assets/piyush.webp" alt="Piyush Garg" width="150px" style="border-radius: 50%;">
       <h3>🏆<br>Piyush Garg</h3>
       <a href="https://github.com/piyushgarg-dev"><img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
       <a href="https://www.piyushgarg.dev/"><img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
@@ -57,9 +57,10 @@
   </tr>
 </table><br/>
 
+<h2 align="center">📌Notes Directory</h2>
 
 
-<h2 align="center">📌 Blogs & Learning Resources</h2>
+<h2 align="center">📌Blogs</h2>
 
 ### 🔥 Top Posts
 
