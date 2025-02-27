@@ -241,7 +241,7 @@
 
   
 <details>  
-  <summary><h4>Web Basics</h4><img src="assets/thumbnails/blog-series-thumbnails/web-basic-cover.webp" alt="Web Basics Series" width="200" style="border-radius: 15px;" margin="15px"></summary>
+  <summary><h4>Web Basics</h4><br><img src="assets/thumbnails/blog-series-thumbnails/web-basic-cover.webp" alt="Web Basics Series" width="200" style="border-radius: 15px;" margin="15px"></summary>
   
   | <a href="https://jargoniseasy.com/http-vs-https" target="_blank"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1739176050382/c1b73cb9-9319-45d2-a413-adf69ac45a04.webp?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="HTTP v/s HTTPS" width="200"></a> | <a href="https://jargoniseasy.com/tcp-3-way-handshake" target="_blank"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1738052939113/54662de0-86ea-4b6b-a0c8-ebb80ee59fe2.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="TCP/IP 3 wya handshake" width="200"></a> | <a href="https://jargoniseasy.com/tcpip-basics" target="_blank"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1738000857920/997c9ce2-4647-4386-8085-4229f3e55e9e.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="TCP IP Basics" width="200"></a> |
   | ------------- | --------- | ----------- | 
@@ -250,7 +250,7 @@
 </details>
 
 <details>  
-  <summary><h4>HTML</h4><img src="assets/thumbnails/blog-series-thumbnails/html-cover.webp" alt="HTML Series" width="200" style="border-radius: 15px;" margin="15px"></summary>
+  <summary><h4>HTML</h4><br><img src="assets/thumbnails/blog-series-thumbnails/html-cover.webp" alt="HTML Series" width="200" style="border-radius: 15px;" margin="15px"></summary>
   
   | <a href="#" target="_blank"></a> | <a href="#" target="_blank"></a> | <a href="#" target="_blank"></a> |
   | ------------- | --------- | ----------- | 
