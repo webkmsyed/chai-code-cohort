@@ -66,76 +66,77 @@
 <h2 align="center">📌Notes Directory</h2>
 
 <details>
-  <summary><h3>Lecture Notes</h3></summary>
-  
-<details>
-  <summary>Week 01</summary>
-
-  **Files:**
-
-  | Thumbnail | File Name        | Description             |
-  | --------- | ---------------- | ----------------------- |
-  | ![Thumb](path/to/thumbnail.png) | [Lecture01.js](Lecture%20Notes/Week%2001/Lecture01.js) | JavaScript code file |
-  | ![Thumb](path/to/thumbnail.png) | [Notes.txt](Lecture%20Notes/Week%2001/Notes.txt)       | Text notes           |
-  | ![Thumb](path/to/thumbnail.png) | [README.md](Lecture%20Notes/Week%2001/README.md)       | Markdown summary     |
-  
-</details>
+<summary><h3>Lecture Notes</h3></summary>
 
 <details>
-  <summary>Week 02</summary>
-  
-  **Files:**
-  
-  | Thumbnail | File Name        | Description             |
-  | --------- | ---------------- | ----------------------- |
-  | ![Thumb](path/to/thumbnail.png) | [Lecture02.js](Lecture%20Notes/Week%2002/Lecture02.js) | JavaScript code file |
-  | ![Thumb](path/to/thumbnail.png) | [Notes.txt](Lecture%20Notes/Week%2002/Notes.txt)       | Text notes           |
-  | ![Thumb](path/to/thumbnail.png) | [README.md](Lecture%20Notes/Week%2002/README.md)       | Markdown summary     |
-  
-</details>
+<summary>Week 01</summary>
+
+**Files:**
+
+| Thumbnail | File Name | Description |
+| --------- | --------- | ----------- |
+| ![Thumb](path/to/thumbnail.png) | [Lecture01.js](Lecture%20Notes/Week%2001/Lecture01.js) | JavaScript code file |
+| ![Thumb](path/to/thumbnail.png) | [Notes.txt](Lecture%20Notes/Week%2001/Notes.txt) | Text notes |
+| ![Thumb](path/to/thumbnail.png) | [README.md](Lecture%20Notes/Week%2001/README.md) | Markdown summary |
 
 </details>
 
 <details>
-  <summary><h3>Interview & Coding Practice</h3></summary>
-  
-<details>
-  <summary>JavaScript DSA</summary>
-  
-  **Files:**
+<summary>Week 02</summary>
 
-  | Thumbnail | File Name         | Description         |
-  | --------- | ----------------- | ------------------- |
-  | ![Thumb](path/to/thumbnail.png) | [Practice1.js](Interview%20Coding%20Practice/Practice%20Set%201/Practice1.js) | Coding challenge    |
-  | ![Thumb](path/to/thumbnail.png) | [TestCases.txt](Interview%20Coding%20Practice/Practice%20Set%201/TestCases.txt) | Test cases        |
-  
+**Files:**
+
+| Thumbnail | File Name | Description |
+| --------- | --------- | ----------- |
+| ![Thumb](path/to/thumbnail.png) | [Lecture02.js](Lecture%20Notes/Week%2002/Lecture02.js) | JavaScript code file |
+| ![Thumb](path/to/thumbnail.png) | [Notes.txt](Lecture%20Notes/Week%2002/Notes.txt) | Text notes |
+| ![Thumb](path/to/thumbnail.png) | [README.md](Lecture%20Notes/Week%2002/README.md) | Markdown summary |
+
+</details>
+
 </details>
 
 <details>
-  <summary>Machine Coding Round</summary>
-  
-  **Files:**
+<summary><h3>Interview & Coding Practice</h3></summary>
 
-  | Thumbnail | File Name         | Description         |
-  | --------- | ----------------- | ------------------- |
-  | ![Thumb](path/to/thumbnail.png) | [Practice2.js](Interview%20Coding%20Practice/Practice%20Set%202/Practice2.js) | Coding challenge    |
-  | ![Thumb](path/to/thumbnail.png) | [TestCases.txt](Interview%20Coding%20Practice/Practice%20Set%202/TestCases.txt) | Test cases        |
-  
+<details>
+<summary>JavaScript DSA</summary>
+
+**Files:**
+
+| Thumbnail | File Name | Description |
+| --------- | --------- | ----------- |
+| ![Thumb](path/to/thumbnail.png) | [Practice1.js](Interview%20Coding%20Practice/Practice%20Set%201/Practice1.js) | Coding challenge |
+| ![Thumb](path/to/thumbnail.png) | [TestCases.txt](Interview%20Coding%20Practice/Practice%20Set%201/TestCases.txt) | Test cases |
+
 </details>
 
 <details>
-  <summary>Aptitude and Reasoning</summary>
-  
-  **Files:**
+<summary>Machine Coding Round</summary>
 
-  | Thumbnail | File Name         | Description         |
-  | --------- | ----------------- | ------------------- |
-  | ![Thumb](path/to/thumbnail.png) | [Practice2.js](Interview%20Coding%20Practice/Practice%20Set%202/Practice2.js) | Coding challenge    |
-  | ![Thumb](path/to/thumbnail.png) | [TestCases.txt](Interview%20Coding%20Practice/Practice%20Set%202/TestCases.txt) | Test cases          |
-  
+**Files:**
+
+| Thumbnail | File Name | Description |
+| --------- | --------- | ----------- |
+| ![Thumb](path/to/thumbnail.png) | [Practice2.js](Interview%20Coding%20Practice/Practice%20Set%202/Practice2.js) | Coding challenge |
+| ![Thumb](path/to/thumbnail.png) | [TestCases.txt](Interview%20Coding%20Practice/Practice%20Set%202/TestCases.txt) | Test cases |
+
+</details>
+
+<details>
+<summary>Aptitude and Reasoning</summary>
+
+**Files:**
+
+| Thumbnail | File Name | Description |
+| --------- | --------- | ----------- |
+| ![Thumb](path/to/thumbnail.png) | [Practice2.js](Interview%20Coding%20Practice/Practice%20Set%202/Practice2.js) | Coding challenge |
+| ![Thumb](path/to/thumbnail.png) | [TestCases.txt](Interview%20Coding%20Practice/Practice%20Set%202/TestCases.txt) | Test cases |
+
 </details>
 
 </details>
+
 <br><br><br>
 
 <!------------------------------------------------------------------Porject Section--------------------------------------------------------------------------------------------------------->
