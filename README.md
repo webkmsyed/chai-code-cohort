@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">  
-  <img alt="Cohort Banner" src="./assets/cohort_banner.jpg" width="500">   
+  <img alt="Cohort Banner" src="assets/banner/cohort_banner.jpg" width="500">   
 </div><br>
 
 <h1 align="center"> Full Stack Web Developer Cohort 1.0 </h1>
@@ -14,7 +14,7 @@
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-  <img src="assets/webkmsyed.png" alt="Khishamuddin Syed" width="150" style="border-radius: 50%;">
+  <img src="assets/avatar/syed.webp" alt="Khishamuddin Syed" width="150" style="border-radius: 100%;">
 </p>
 
 <h3 align="center">Hi, I'm Khishamuddin Syed</h3>
@@ -33,10 +33,8 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="assets/hitesh_profile.png" alt="Hitesh Choudhary" width="150px" style="border-radius: 100%;">
-      <h3>🏆</h3>
-      <h3>Hitesh</h3>
-      <h3>Choudhary</h3>
+      <img src="assets/avatar/hitesh.webp" alt="Hitesh Choudhary" width="150px" style="border-radius: 100%;">
+      <h3>🏆<br>Hitesh<br>Choudhary</h3>
       <a href="https://github.com/hiteshchoudhary"><img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
       <a href="https://hiteshchoudhary.com/"><img src="https://img.shields.io/badge/Website-0e76a8?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
       <a href="https://twitter.com/Hiteshdotcom"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=Twitter&logoColor=black"></a>
@@ -46,7 +44,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=hiteshchoudhary&show_icons=true&theme=radical">
     </td>
     <td align="center" width="50%">
-      <img src="assets/piyush.webp" alt="Piyush Garg" width="150px" style="border-radius: 100%;">
+      <img src="assets/avatar/piyush.webp" alt="Piyush Garg" width="150px" style="border-radius: 100%;">
       <h3>🏆<br>Piyush Garg</h3><br>
       <a href="https://github.com/piyushgarg-dev"><img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
       <a href="https://www.piyushgarg.dev/"><img src="https://img.shields.io/badge/Website-0e76a8?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
@@ -61,8 +59,8 @@
 
 <h2 align="center">📌Notes Directory</h2>
 
-### Lecture Notes
-
+<details>
+  <summary><h3>Lecture Notes</h3></summary>
 <details>
   <summary>Week 01</summary>
 
@@ -78,20 +76,17 @@
 
 <details>
   <summary>Week 02</summary>
-
   **Files:**
-
+  
   | Thumbnail | File Name        | Description             |
   | --------- | ---------------- | ----------------------- |
   | ![Thumb](path/to/thumbnail.png) | [Lecture02.js](Lecture%20Notes/Week%2002/Lecture02.js) | JavaScript code file |
   | ![Thumb](path/to/thumbnail.png) | [Notes.txt](Lecture%20Notes/Week%2002/Notes.txt)       | Text notes           |
   | ![Thumb](path/to/thumbnail.png) | [README.md](Lecture%20Notes/Week%2002/README.md)       | Markdown summary     |
-
 </details>
 
 <details>
   <summary>Week 03</summary>
-
   **Files:**
 
   | Thumbnail | File Name        | Description             |
@@ -99,83 +94,42 @@
   | ![Thumb](path/to/thumbnail.png) | [Lecture03.js](Lecture%20Notes/Week%2003/Lecture03.js) | JavaScript code file |
   | ![Thumb](path/to/thumbnail.png) | [Notes.txt](Lecture%20Notes/Week%2003/Notes.txt)       | Text notes           |
   | ![Thumb](path/to/thumbnail.png) | [README.md](Lecture%20Notes/Week%2003/README.md)       | Markdown summary     |
-
+</details>
 </details>
 
-
-### Interview & Coding Practice
+<details>
+  <summary><h3>Interview & Coding Practice</h3></summary>
 
 <details>
   <summary>Practice Set 1</summary>
-
   **Files:**
 
   | Thumbnail | File Name         | Description         |
   | --------- | ----------------- | ------------------- |
   | ![Thumb](path/to/thumbnail.png) | [Practice1.js](Interview%20Coding%20Practice/Practice%20Set%201/Practice1.js) | Coding challenge    |
-  | ![Thumb](path/to/thumbnail.png) | [TestCases.txt](Interview%20Coding%20Practice/Practice%20Set%201/TestCases.txt) | Test cases          |
-
+  | ![Thumb](path/to/thumbnail.png) | [TestCases.txt](Interview%20Coding%20Practice/Practice%20Set%201/TestCases.txt) | Test cases        |
 </details>
 
 <details>
   <summary>Practice Set 2</summary>
-
   **Files:**
 
   | Thumbnail | File Name         | Description         |
   | --------- | ----------------- | ------------------- |
   | ![Thumb](path/to/thumbnail.png) | [Practice2.js](Interview%20Coding%20Practice/Practice%20Set%202/Practice2.js) | Coding challenge    |
   | ![Thumb](path/to/thumbnail.png) | [TestCases.txt](Interview%20Coding%20Practice/Practice%20Set%202/TestCases.txt) | Test cases          |
-
 </details>
+</details>
+<br><br><br>
 
-
-### Projects
+<h2 align="center">📌Projects</h2>
 
 **Files:**
-
 | Thumbnail | Project Preview | Code Files | Description |
 | --------- | --------- | ----------- | ----------- |
 | ![Thumb](path/to/thumbnail.png) | <a href="https://hashnode.com/@webkmsyed"><img src="https://img.shields.io/badge/Calculator-0A66C2?style=for-the-badge&logo=Calculator&logoColor=white"></a> | <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a> <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a> <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a> | Calculator Project |
 
-<details>
-<summary>Project - Calculator</summary>
-
-<details>
-<summary>HTML Files</summary>
-```html
-<h1>Hi</h1>
-<p>Good morning<p>
-<p>Check<p>
-
-</details>
-
-<details>
-<summary>CSS Files</summary>
-
-**Files:**
-
-| Thumbnail | File Name | Description |
-| --------- | --------- | ----------- |
-| ![Thumb](path/to/thumbnail.png) | [styles.css](Projects/Project%20Calculator/CSS/styles.css) | CSS file |
-
-</details>
-
-<details>
-<summary>JS Files</summary>
-
-**Files:**
-
-| Thumbnail | File Name | Description |
-| --------- | --------- | ----------- |
-| ![Thumb](path/to/thumbnail.png) | [script.js](Projects/Project%20Calculator/JS/script.js) | JS file |
-
-</details>
-
-</details>
-
-
-
+<br><br><br>
 <h2 align="center">📌Blogs</h2>
 
 ### 🔥 Top Blogs
@@ -202,35 +156,80 @@
   </tr>
 </table>
 
-
 ### 📚 Series
 
 <table>
   <tr>
     <td align="center">
       <a href="https://jargoniseasy.com/series/javascript">
-        <img src="https://github.com/webkmsyed/webkmsyed/raw/main/images/blogPost/js-cover.webp" alt="JavaScript Series" width="200">
+        <img src="assets/thumbnails/blog-series-thumbnails/js-cover.webp" alt="JavaScript Series" width="200">
       </a>
       <br/><sub>JavaScript Series</sub>
     </td>
     <td align="center">
       <a href="https://jargoniseasy.com/series/css">
-        <img src="https://github.com/webkmsyed/webkmsyed/raw/main/images/blogPost/css-cover.webp" alt="CSS Series" width="200">
+        <img src="assets/thumbnails/blog-series-thumbnails/css-cover.webp" alt="CSS Series" width="200">
       </a>
       <br/><sub>CSS Series</sub>
     </td>
     <td align="center">
       <a href="https://jargoniseasy.com/series/html">
-        <img src="https://github.com/webkmsyed/webkmsyed/raw/main/images/blogPost/html-cover.webp" alt="HTML Series" width="200">
+        <img src="assets/thumbnails/blog-series-thumbnails/html-cover.webp" alt="HTML Series" width="200">
       </a>
       <br/><sub>HTML Series</sub>
     </td>
+    <td align="center">
+      <a href="https://jargoniseasy.com/series/web-basics">
+        <img src="assets/thumbnails/blog-series-thumbnails/web-basic-cover.webp" alt="Web Basics" width="200">
+      </a>
+      <br/><sub>Web Basics Series</sub>
+    </td>
+    <td align="center">
+      <a href="https://jargoniseasy.com/series/tech-news">
+        <img src="assets/thumbnails/blog-series-thumbnails/news-cover.webp" alt="HTML Series" width="200">
+      </a>
+      <br/><sub>Tech News Series</sub>
+    </td>    
   </tr>
 </table><br/>
 
+<details>
+  <summary><h3>Other Blogs</h3></summary>
+
+<details>  
+  <summary><h4>Web Basics</h4><br><img src="https://github.com/webkmsyed/webkmsyed/raw/main/images/blogPost/js-cover.webp" alt="JavaScript Series" width="200" style="border-radius: 15px;" margin="15px"></summary>
+  
+<br>
+
+| <a href="https://jargoniseasy.com/series/javascript" target="_blank"><img src="https://github.com/webkmsyed/webkmsyed/raw/main/images/blogPost/js-cover.webp" alt="JavaScript Series" width="200"></a> | <a href="https://jargoniseasy.com/series/javascript" target="_blank"><img src="https://github.com/webkmsyed/webkmsyed/raw/main/images/blogPost/js-cover.webp" alt="JavaScript Series" width="200"></a> | <a href="https://jargoniseasy.com/series/javascript" target="_blank"><img src="https://github.com/webkmsyed/webkmsyed/raw/main/images/blogPost/js-cover.webp" alt="JavaScript Series" width="200"></a> | <a href="https://jargoniseasy.com/series/javascript" target="_blank"><img src="https://github.com/webkmsyed/webkmsyed/raw/main/images/blogPost/js-cover.webp" alt="JavaScript Series" width="200"></a> |
+| ------------- | --------- |----------- | ------------ | 
+| <a href="https://jargoniseasy.com/series/javascript" target="_blank"><img src="https://github.com/webkmsyed/webkmsyed/raw/main/images/blogPost/js-cover.webp" alt="JavaScript Series" width="200"></a> | <a href="https://jargoniseasy.com/series/javascript" target="_blank"><img src="https://github.com/webkmsyed/webkmsyed/raw/main/images/blogPost/js-cover.webp" alt="JavaScript Series" width="200"></a> | <a href="https://jargoniseasy.com/series/javascript" target="_blank"><img src="https://github.com/webkmsyed/webkmsyed/raw/main/images/blogPost/js-cover.webp" alt="JavaScript Series" width="200"></a> | <a href="https://jargoniseasy.com/series/javascript" target="_blank"><img src="https://github.com/webkmsyed/webkmsyed/raw/main/images/blogPost/js-cover.webp" alt="JavaScript Series" width="200"></a> |
+
+</details>
+
+<details>  
+  <summary><h4>JavaScript Basics</h4><br><img src="https://github.com/webkmsyed/webkmsyed/raw/main/images/blogPost/js-cover.webp" alt="JavaScript Series" width="200" style="border-radius: 15px;" margin="15px"></summary>
+
+| <a href="https://jargoniseasy.com/series/javascript" target="_blank"><img src="https://github.com/webkmsyed/webkmsyed/raw/main/images/blogPost/js-cover.webp" alt="JavaScript Series" width="200"></a> | <a href="https://jargoniseasy.com/series/javascript" target="_blank"><img src="https://github.com/webkmsyed/webkmsyed/raw/main/images/blogPost/js-cover.webp" alt="JavaScript Series" width="200"></a> | <a href="https://jargoniseasy.com/series/javascript" target="_blank"><img src="https://github.com/webkmsyed/webkmsyed/raw/main/images/blogPost/js-cover.webp" alt="JavaScript Series" width="200"></a> | <a href="https://jargoniseasy.com/series/javascript" target="_blank"><img src="https://github.com/webkmsyed/webkmsyed/raw/main/images/blogPost/js-cover.webp" alt="JavaScript Series" width="200"></a> |
+| ------------- | --------- |----------- | ------------ | 
+| <a href="https://jargoniseasy.com/series/javascript" target="_blank"><img src="https://github.com/webkmsyed/webkmsyed/raw/main/images/blogPost/js-cover.webp" alt="JavaScript Series" width="200"></a> | <a href="https://jargoniseasy.com/series/javascript" target="_blank"><img src="https://github.com/webkmsyed/webkmsyed/raw/main/images/blogPost/js-cover.webp" alt="JavaScript Series" width="200"></a> | <a href="https://jargoniseasy.com/series/javascript" target="_blank"><img src="https://github.com/webkmsyed/webkmsyed/raw/main/images/blogPost/js-cover.webp" alt="JavaScript Series" width="200"></a> | <a href="https://jargoniseasy.com/series/javascript" target="_blank"><img src="https://github.com/webkmsyed/webkmsyed/raw/main/images/blogPost/js-cover.webp" alt="JavaScript Series" width="200"></a> |
+
+</details>
+
+</details>
+
+<!-- Samples of different blog grids-->
+<!--
+<a href="https://jargoniseasy.com/series/javascript" target="_blank"><img src="https://github.com/webkmsyed/webkmsyed/raw/main/images/blogPost/js-cover.webp" alt="JavaScript Series" width="200"></a>&nbsp;&nbsp;<a href="https://jargoniseasy.com/series/javascript" target="_blank"><img src="https://github.com/webkmsyed/webkmsyed/raw/main/images/blogPost/js-cover.webp" alt="JavaScript Series" width="200"></a>&nbsp;&nbsp;<a href="https://jargoniseasy.com/series/javascript" target="_blank"><img src="https://github.com/webkmsyed/webkmsyed/raw/main/images/blogPost/js-cover.webp" alt="JavaScript Series" width="200"></a>&nbsp;&nbsp;<a href="https://jargoniseasy.com/series/javascript" target="_blank"><img src="https://github.com/webkmsyed/webkmsyed/raw/main/images/blogPost/js-cover.webp" alt="JavaScript Series" width="200"></a>&nbsp;&nbsp;&nbsp;<a href="https://jargoniseasy.com/series/javascript" target="_blank"><img src="https://github.com/webkmsyed/webkmsyed/raw/main/images/blogPost/js-cover.webp" alt="JavaScript Series" width="200"></a>&nbsp;&nbsp;<a href="https://jargoniseasy.com/series/javascript" target="_blank"><img src="https://github.com/webkmsyed/webkmsyed/raw/main/images/blogPost/js-cover.webp" alt="JavaScript Series" width="200"></a>
+
+<a href="https://jargoniseasy.com/series/javascript" target="_blank"><img src="https://github.com/webkmsyed/webkmsyed/raw/main/images/blogPost/js-cover.webp" alt="JavaScript Series" width="200" style="border-radius: 15px;" margin="15px"></a>
+<a href="https://jargoniseasy.com/series/javascript" target="_blank"><img src="https://github.com/webkmsyed/webkmsyed/raw/main/images/blogPost/js-cover.webp" alt="JavaScript Series" width="200" style="border-radius: 15px;" margin="15px"></a>
+<a href="https://jargoniseasy.com/series/javascript" target="_blank"><img src="https://github.com/webkmsyed/webkmsyed/raw/main/images/blogPost/js-cover.webp" alt="JavaScript Series" width="200" style="border-radius: 15px;" margin="15px"></a>
+<a href="https://jargoniseasy.com/series/javascript" target="_blank"><img src="https://github.com/webkmsyed/webkmsyed/raw/main/images/blogPost/js-cover.webp" alt="JavaScript Series" width="200" style="border-radius: 15px;" margin="15px"></a>
+-->
+<br><br>
 
 <h2 align="center">🚀 Skills & Tech Stack Cover</h2>
-
 
 <div align="center">
     <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
