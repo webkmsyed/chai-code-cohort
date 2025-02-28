@@ -93,7 +93,7 @@
 </details>
 </details>
 
-<br><br>
+<br>
 
 <details>
 <summary><h3 style="display:inline;">Interview & Coding Practice</h3></summary>
@@ -132,7 +132,7 @@
 
 </details>
 </details>
-
+<br>
 
 <!------------------------------------------------------------------Porject Section--------------------------------------------------------------------------------------------------------->
 
@@ -221,6 +221,8 @@
       </a>
       <br/><sub>HTML Series</sub>
     </td>
+   </tr> 
+   <tr> 
     <td align="center">
       <a href="https://jargoniseasy.com/series/web-basics">
         <img src="assets/thumbnails/blog-series-thumbnails/web-basic-cover.webp" alt="Web Basics" width="200">
@@ -265,7 +267,7 @@
 </div>
 </details>
 </details>
-
+<br><br>
 <!-- Samples of different blog grids-->
 <!--
 <a href="https://jargoniseasy.com/series/javascript" target="_blank"><img src="https://github.com/webkmsyed/webkmsyed/raw/main/images/blogPost/js-cover.webp" alt="JavaScript Series" width="200"></a>&nbsp;&nbsp;<a href="https://jargoniseasy.com/series/javascript" target="_blank"><img src="https://github.com/webkmsyed/webkmsyed/raw/main/images/blogPost/js-cover.webp" alt="JavaScript Series" width="200"></a>&nbsp;&nbsp;<a href="https://jargoniseasy.com/series/javascript" target="_blank"><img src="https://github.com/webkmsyed/webkmsyed/raw/main/images/blogPost/js-cover.webp" alt="JavaScript Series" width="200"></a>&nbsp;&nbsp;<a href="https://jargoniseasy.com/series/javascript" target="_blank"><img src="https://github.com/webkmsyed/webkmsyed/raw/main/images/blogPost/js-cover.webp" alt="JavaScript Series" width="200"></a>&nbsp;&nbsp;&nbsp;<a href="https://jargoniseasy.com/series/javascript" target="_blank"><img src="https://github.com/webkmsyed/webkmsyed/raw/main/images/blogPost/js-cover.webp" alt="JavaScript Series" width="200"></a>&nbsp;&nbsp;<a href="https://jargoniseasy.com/series/javascript" target="_blank"><img src="https://github.com/webkmsyed/webkmsyed/raw/main/images/blogPost/js-cover.webp" alt="JavaScript Series" width="200"></a>
