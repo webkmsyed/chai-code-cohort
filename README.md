@@ -48,7 +48,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=hiteshchoudhary&show_icons=true&theme=radical">
     </td>
     <td align="center" width="50%">
-      <img src="assets/avatar/piyush.webp" alt="Piyush Garg" width="150px" style="border-radius: 100%;">
+      <img src="assets/avatar/piyush.webp" alt="Piyush Garg" width="150px" height="150px" style="border-radius: 100%;">
       <h3>🏆<br>Piyush<br>&nbsp;&nbsp;&nbsp;&nbsp;Garg</h3>
       <a href="https://github.com/piyushgarg-dev"><img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
       <a href="https://www.piyushgarg.dev/"><img src="https://img.shields.io/badge/Website-0e76a8?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
