@@ -259,10 +259,10 @@
 <details>  
 <summary><h4 style="display:inline;">HTML</h4><br><img src="assets/thumbnails/blog-series-thumbnails/html-cover.webp" alt="HTML Series" width="200" style="border-radius: 15px;" margin="15px"></summary>
 
-<span align="center">
+<div align="center">
 <a href="https://jargoniseasy.com/html-short-notes" target="_blank"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1739378047924/b5d8f418-ddab-4605-8964-866bccfc750b.webp?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="HTML Exam Interview Notes" width="200" style="border: 2px solid black 15px; margin:10px"></a> 
 <a href="https://jargoniseasy.com/the-html-theory" target="_blank"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1739296912944/36b0dd1e-8b87-453d-870b-fdc42c0301a9.webp?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="HTML Basics" width="200" style="border: 2px solid black 15px; margin:10px"></a>
-</span>
+</div>
 </details>
 </details>
 
