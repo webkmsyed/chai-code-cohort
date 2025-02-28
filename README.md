@@ -66,7 +66,7 @@
 <h2 align="center">📌Notes Directory</h2>
 
 <details>
-<summary><h3>Lecture Notes</h3></summary>
+<summary>Lecture Notes</summary>
 
 <details>
 <summary>Week 01</summary>
