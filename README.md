@@ -251,7 +251,7 @@
 <a href="https://jargoniseasy.com/client-side-vs-server-side" target="_blank"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1737970308830/259c9930-5cda-4741-a229-c719520cd360.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Client Side vs Server Side" width="200" style="border: 2px solid black 15px; margin:10px"></a>
 <a href="https://jargoniseasy.com/dns-hierarchy-from-root-to-authoritative-servers" target="_blank"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1737879891197/147e4e9e-7832-41ce-a9e0-91c6eff3bacf.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="DNS Server Hierarchy" width="200" style="border: 2px solid black 15px; margin:10px"></a>
 <a href="https://jargoniseasy.com/browser-and-your-data-journey" target="_blank"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1737565218797/8fe49aea-638f-4382-990a-ea46e44d22a0.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Browser and Data Journey" width="200" style="border: 2px solid black 15px; margin:10px"></a>
-<p>
+</p>
 </details>
 
 <br>
@@ -259,10 +259,10 @@
 <details>  
 <summary><h4 style="display:inline;">HTML</h4><br><img src="assets/thumbnails/blog-series-thumbnails/html-cover.webp" alt="HTML Series" width="200" style="border-radius: 15px;" margin="15px"></summary>
 
-<p align="center">
-<a href="https://jargoniseasy.com/html-short-notes" target="_blank"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1739378047924/b5d8f418-ddab-4605-8964-866bccfc750b.webp?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="HTML Exam Interview Notes" width="200" style="border: 2px solid black 15px; margin:10px"></a>
+<span align="center">
+<a href="https://jargoniseasy.com/html-short-notes" target="_blank"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1739378047924/b5d8f418-ddab-4605-8964-866bccfc750b.webp?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="HTML Exam Interview Notes" width="200" style="border: 2px solid black 15px; margin:10px"></a> 
 <a href="https://jargoniseasy.com/the-html-theory" target="_blank"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1739296912944/36b0dd1e-8b87-453d-870b-fdc42c0301a9.webp?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="HTML Basics" width="200" style="border: 2px solid black 15px; margin:10px"></a>
-<p>
+</span>
 </details>
 </details>
 
