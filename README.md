@@ -93,9 +93,11 @@
 </details>
 </details>
 
-<details>
-<summary><h3>Interview & Coding Practice</h3></summary>
+<br><br>
 
+<details>
+<summary><h3 style="display:inline;">Interview & Coding Practice</h3></summary>
+ 
 <details>
 <summary>JavaScript DSA</summary>
 
@@ -233,10 +235,10 @@
     </td>    
   </tr>
 </table>
-
+<br><br>
 
 <details>
-<summary><h3>Other Blogs</h3></summary>
+<summary><h3 style="display:inline;">Other Blogs</h3></summary>
 
 <details>  
 <summary><h4>Web Basics</h4><br><img src="assets/thumbnails/blog-series-thumbnails/web-basic-cover.webp" alt="Web Basics Series" width="200" style="border-radius: 15px;" margin="15px"></summary>
