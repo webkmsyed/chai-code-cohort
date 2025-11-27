@@ -202,26 +202,6 @@
 ### 📚 Series
 
 <table>
-  <tr>
-    <td align="center">
-      <a href="https://jargoniseasy.com/series/javascript">
-        <img src="assets/thumbnails/blog-series-thumbnails/js-cover.webp" alt="JavaScript Series" width="200">
-      </a>
-      <br/><sub>JavaScript Series</sub>
-    </td>
-    <td align="center">
-      <a href="https://jargoniseasy.com/series/css">
-        <img src="assets/thumbnails/blog-series-thumbnails/css-cover.webp" alt="CSS Series" width="200">
-      </a>
-      <br/><sub>CSS Series</sub>
-    </td>
-    <td align="center">
-      <a href="https://jargoniseasy.com/series/html">
-        <img src="assets/thumbnails/blog-series-thumbnails/html-cover.webp" alt="HTML Series" width="200">
-      </a>
-      <br/><sub>HTML Series</sub>
-    </td>
-   </tr> 
    <tr> 
     <td align="center">
       <a href="https://jargoniseasy.com/series/web-basics">
